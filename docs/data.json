@@ -1,10 +1,610 @@
 {
-  "aggiornato": "2026-10-28T09:57:21.773460+00:00",
-  "conteggio": 20,
+  "aggiornato": "2026-10-28T10:11:04.206999+00:00",
+  "conteggio": 74,
   "elementi": [
     {
       "tipo": "uscita",
       "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Nathan Never. I pirati dei cieli",
+      "data": "2027-01-15",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/nathan-never-i-pirati-dei-cieli/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Sherlock Holmes e i misteri di Londra. Il ritorno di Jack il Saltatore",
+      "data": "2026-12-04",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Mister No. Inferno verde",
+      "data": "2026-11-27",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/mister-no-inferno-verde/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Vasco Rossi. Sulle ali del successo",
+      "data": "2026-11-24",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/vasco-rossi-sulle-ali-del-successo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I grandi misteri di Martin Mystère",
+      "data": "2026-11-20",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/i-grandi-misteri-di-martin-mystere/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Storia di nessuno – Edizione limitata numerata",
+      "data": "2026-11-20",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno-edizione-limitata-numerata/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Storia di nessuno",
+      "data": "2026-11-20",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Un altro futuro",
+      "data": "2026-11-18",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/un-altro-futuro/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Il libro dei morti",
+      "data": "2026-11-14",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/il-libro-dei-morti-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Disperanza. Falli a pezzi, ragazzo!",
+      "data": "2026-11-13",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/disperanza-falli-a-pezzi-ragazzo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Montagna",
+      "data": "2026-11-13",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/montagna/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex. La cavalcata del morto – Edizione limitata numerata",
+      "data": "2026-11-13",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-la-cavalcata-del-morto-edizione-limitata-numerata/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex. La cavalcata del morto",
+      "data": "2026-11-13",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-la-cavalcata-del-morto/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "L’invasione silenziosa",
+      "data": "2026-11-11",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/linvasione-silenziosa-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Cresciuta negli inferi",
+      "data": "2026-11-10",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/cresciuta-negli-inferi/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Giorni di fuoco",
+      "data": "2026-11-07",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/giorni-di-fuoco/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Zagor. Vudu",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/zagor-vudu/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Trent’anni di disegni sbagliati – L’arte di Paolo Barbieri",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Trent’anni di disegni sbagliati. L’arte di Paolo Barbieri – Variant",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Lucky Luke. I garibaldini – Artist Edition",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/lucky-luke-i-garibaldini-artist-edition/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Lucky Luke. I garibaldini",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/lucky-luke-i-garibaldini/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Pellerossa e visi pallidi",
+      "data": "2026-11-05",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/pellerossa-e-visi-pallidi/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Ritorno sul Monte Naatani",
+      "data": "2026-11-03",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/ritorno-sul-monte-naatani/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. L’alba dei morti viventi",
+      "data": "2026-11-03",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. L’alba dei morti viventi – Variant",
+      "data": "2026-11-03",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "L’ultimo treno della notte",
+      "data": "2026-10-31",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/lultimo-treno-della-notte/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Messaggeri delle tenebre",
+      "data": "2026-10-30",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/messaggeri-delle-tenebre/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Anche gli Eroi Muoiono (Post Mortem) CD + Fumetto",
+      "data": "2026-10-30",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/anche-gli-eroi-muoiono-post-mortem-cd-fumetto/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Anche gli Eroi Muoiono (Post Mortem) LP + Fumetto",
+      "data": "2026-10-30",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/anche-gli-eroi-muoiono-post-mortem-lp-fumetto/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Logos – Un racconto di Kid Yugi",
+      "data": "2026-10-30",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/logos/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Speciale Tex Willer 13 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/speciale-tex-willer-13-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex 793 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-793-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog 482bis – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-482bis-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il west di Serpieri 1 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/il-west-di-serpieri-1-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Dragonero 162 – Variant Gmor",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dragonero-162-variant-gmor/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Nathan Never 426 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/nathan-never-426-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Martin Mystère 441 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/martin-mystere-441-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Zagor 736 – Variant",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/zagor-736-variant/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Dragonero 162 – Variant Ian",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/dragonero-162-variant-ian/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Lunga Lancia",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/lunga-lancia-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Gigante. La tragica notte",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-tragica-notte/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Gigante. La spia",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-spia/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Gigante. La freccia della morte",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-freccia-della-morte/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Gigante. La traccia di sangue",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-traccia-di-sangue/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Gigante. L’agguato",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-lagguato/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Bellasalma – Teoria delle cover stocastiche",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Bellasalma-Teoria-delle-cover-stocastiche-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/bellasalma-teoria-delle-cover-stocastiche/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – Pinocchio (Variant)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Pinocchio-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-pinocchio-variant/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "TONI & SAMUEL – Il protocollo della soglia (Toni)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/TONI-SAMUEL-Il-protocollo-della-soglia-Toni-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-samuel-il-protocollo-della-soglia-toni/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "TONI & SAMUEL – Il protocollo della soglia (Toni) (Siniscalchi)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/TONI-SAMUEL-Il-protocollo-della-soglia-SINISCALCHI-scaled.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-samuel-il-protocollo-della-soglia-toni-siniscalchi/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Allan Zero II – Sticker cover (Variant)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Allan-Zero-II-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/allan-zero-ii-sticker-cover-variant/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – I delitti di una bambina mai nata (Variant)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-I-delitti-di-una-bimba-mai-nata-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-delitti-bambina-mai-nata-variant/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Bellasalma – Teoria delle cover stocastiche (Variant)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/TONI-BELLASALMA-Teoria-delle-cover-VARIANT.jpg",
+      "link": "https://www.bugscomics.com/prodotto/bellasalma-teoria-delle-cover-stocastiche-variant/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Allan Zero II – Il mattatoio",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Allan-Zero-II-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/allan-zero-ii-il-mattatoio/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Trilogia della Luna Assenzio",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/2026-SS-LA-LUNA-ASSENZIO-plancia-cover-Vol-III-risguardi-RED-64pp-195x266-copia.jpg",
+      "link": "https://www.bugscomics.com/prodotto/trilogia-della-luna-assenzio/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – Storie brevi II",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – Pinocchio",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Pinocchio-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-pinocchio/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – I delitti di una bambina mai nata",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-delitti-bimba-mai-nata.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-delitti-bambina-mai-nata/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne – Storie brevi II (Variant)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii-variant/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "TONI & SAMUEL – Il protocollo della soglia (Samuel)",
+      "data": "2026-10-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/TONI-SAMUEL-Il-protocollo-della-soglia-Samuel-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-samuel-il-protocollo-della-soglia-samuel/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Vasco Rossi: sulle ali del successo!",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/vasco-rossi-sulle-ali-del-successo/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Gli eventi di oggi a Lucca Comics 2026",
       "data": "2026-10-27",
@@ -13,8 +613,8 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Il merchandising per Lucca Comics 2026!",
       "data": "2026-10-26",
@@ -26,6 +626,26 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "Un uomo inutile",
+      "data": "2026-10-24",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/un-uomo-inutile/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Pagati per uccidere",
+      "data": "2026-10-22",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/pagati-per-uccidere/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
       "titolo": "A tutto variant!",
       "data": "2026-10-22",
       "cover": "",
@@ -33,8 +653,8 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog 40 anni di paura 6",
       "data": "2026-10-22",
@@ -46,6 +666,16 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "La Valle dell’Odio",
+      "data": "2026-10-21",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/prodotto/la-valle-dellodio-4/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
       "titolo": "Le novità librarie di Lucca 2026!",
       "data": "2026-10-21",
       "cover": "",
@@ -53,8 +683,8 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Le Strisce di Zagor 87",
       "data": "2026-10-21",
@@ -63,8 +693,8 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "I firmacopie di Lucca Comics 2026!",
       "data": "2026-10-20",
@@ -73,18 +703,8 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Sospensione delle spedizioni",
-      "data": "2026-10-20",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/sospensione-delle-spedizioni/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Le regole di Kid Yugi",
       "data": "2026-10-19",
@@ -96,110 +716,30 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Le Strisce di Tex 263",
-      "data": "2026-10-19",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tex-Strisce-263_serieXXXI_comanches_16_cover.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-263/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "B.U.G.S. Bureau unit for Global Security",
-      "data": "2025-10-09",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2025/10/bugs-bureau-750x1024.png",
-      "link": "https://www.bugscomics.com/b-u-g-s-bureau-unit-for-global-security/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "L’Insonne a Lucca C&G",
-      "data": "2025-10-09",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2025/10/8FE76783-9EB0-46BD-BAD7-DFF45538DFC0-749x1024.png",
-      "link": "https://www.bugscomics.com/linsonne-a-lucca-cg/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "Il Diario di Hobur",
-      "data": "2024-05-24",
+      "titolo": "Lo stregone dei navajos",
+      "data": "2026-10-16",
       "cover": "",
-      "link": "https://www.bugscomics.com/il-diario-di-hobur/",
-      "fonte": "Bugs Comics"
+      "link": "https://www.sergiobonelli.it/prodotto/lo-stregone-dei-navajos/",
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
-      "editore": "Bugs Comics",
+      "editore": "Bonelli",
       "serie": "",
-      "titolo": "Benvenuto in 𝐁𝐔𝐆𝐒 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝟐𝟎𝟐𝟒!",
-      "data": "2024-05-07",
+      "titolo": "Un anno con Tex (2025)",
+      "data": "2026-10-16",
       "cover": "",
-      "link": "https://www.bugscomics.com/benvenuto-in-bugs-challenge-2024/",
-      "fonte": "Bugs Comics"
+      "link": "https://www.sergiobonelli.it/prodotto/un-anno-con-tex-2025/",
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
       "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "Arrivano sullo shop gli artbook di Samuel e Kalya!",
-      "data": "2024-03-25",
-      "cover": "",
-      "link": "https://www.bugscomics.com/arrivano-sullo-shop-gli-artbook-di-samuel-e-kalya/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "A Lucca Collezionando: BUGS Comics e gli artbook di Samuel e Kalya!",
-      "data": "2024-03-07",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2024/03/ARTBOOK-SAMUEL-cover-REGULAR-751x1024.jpg",
-      "link": "https://www.bugscomics.com/a-lucca-collezionando-bugs-comics-e-gli-artbook-di-samuel-e-kalya/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "Arrivano gli Artbook di Samuel Stern e Kalya",
-      "data": "2024-02-27",
-      "cover": "",
-      "link": "https://www.bugscomics.com/arrivano-gli-artbook-di-samuel-stern-e-kalya/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "Un nuovo inizio, un nuovo sito!",
-      "data": "2023-12-19",
-      "cover": "",
-      "link": "https://www.bugscomics.com/un-nuovo-inizio-un-nuovo-sito/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "I corsi online Bugs Academy disegnati su di te!",
-      "data": "2023-12-19",
-      "cover": "",
-      "link": "https://www.bugscomics.com/primo-articolo/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "Benvenuti nel Bugs Friends’ Club",
-      "data": "2023-12-19",
-      "cover": "",
-      "link": "https://www.bugscomics.com/benvenuti-nel-bugs-friends-club/",
+      "serie": "Toni Bellasalma",
+      "titolo": "Toni Bellasalma 11 – Serenata",
+      "data": "2026-09-30",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/09/IMG_5059-1.jpeg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-11-serenata/",
       "fonte": "Bugs Comics"
     }
   ]
