@@ -1,0 +1,36 @@
+{
+  "aggiornato": "2026-10-28T00:00:00+00:00",
+  "conteggio": 3,
+  "elementi": [
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Esempio — qui comparirà Dylan Dog dopo il primo giro del robot",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/serie/dylan-dog",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Esempio — qui comparirà Toni Bellasalma",
+      "data": "2026-10-15",
+      "cover": "",
+      "link": "https://www.bugscomics.com",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "news",
+      "editore": "Esempio",
+      "serie": "",
+      "titolo": "Esempio — qui compaiono le notizie su Dylan Dog e Bellasalma",
+      "data": "2026-10-28",
+      "cover": "",
+      "link": "#",
+      "fonte": "Esempio"
+    }
+  ]
+}
