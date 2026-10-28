@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-28T10:17:11.354666+00:00",
+  "aggiornato": "2026-10-28T11:54:42.277087+00:00",
   "conteggio": 74,
   "elementi": [
     {
@@ -596,6 +596,16 @@
       "tipo": "news",
       "editore": "Sergio Bonelli Editore",
       "serie": "",
+      "titolo": "Le Strisce di Zagor 88",
+      "data": "2026-10-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_31.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-88/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
       "titolo": "Vasco Rossi: sulle ali del successo!",
       "data": "2026-10-28",
       "cover": "",
@@ -608,7 +618,7 @@
       "serie": "",
       "titolo": "Gli eventi di oggi a Lucca Comics 2026",
       "data": "2026-10-27",
-      "cover": "",
+      "cover": "https://www.youtube.com/embed/s_PTFj6POu0",
       "link": "https://www.sergiobonelli.it/gli-eventi-di-oggi-a-lucca-comics-2026/",
       "fonte": "Sergio Bonelli Editore"
     },
@@ -700,16 +710,6 @@
       "data": "2026-10-20",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/linea-300x4.jpg",
       "link": "https://www.sergiobonelli.it/i-firmacopie-di-lucca-comics-2026/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le regole di Kid Yugi",
-      "data": "2026-10-19",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/le-regole-di-kid-yugi/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
