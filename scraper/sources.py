@@ -100,8 +100,8 @@ def _uscita_date(classes):
 def _media_map(media_url, ids):
     out = {}
     ids = [i for i in ids if i]
-    for i in range(0, len(ids), 50):
-        chunk = ids[i:i + 50]
+    for i in range(0, len(ids), 20):
+        chunk = ids[i:i + 20]
         data = _get_json(media_url, {
             "include": ",".join(str(x) for x in chunk),
             "per_page": len(chunk),
