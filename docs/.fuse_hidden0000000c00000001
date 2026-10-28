@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fumetti</title>
+<meta name="theme-color" content="#0f0f14">
+<link rel="manifest" href="manifest.json">
+<style>
+  :root{
+    --bg:#0f0f14; --card:#1a1a22; --fg:#f2f2f5; --muted:#9a9aa8;
+    --line:#2c2c38; --accent:#e23b3b; --accent2:#ffc043;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f5f5f7; --card:#fff; --fg:#16161a; --muted:#6b6b76; --line:#e4e4ea; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+       padding:0 16px 24px}
+  header{position:sticky;top:0;background:var(--bg);padding:16px 0 10px;
+         border-bottom:1px solid var(--line);z-index:5}
+  h1{font-size:20px;margin:0}
+  .tabs{display:flex;gap:8px;margin-top:12px}
+  .tab{flex:1;padding:9px;border-radius:10px;border:1px solid var(--line);
+       background:var(--card);color:var(--fg);font-size:14px;font-weight:600;cursor:pointer}
+  .tab.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .barra{display:flex;justify-content:space-between;align-items:center;margin:14px 0 4px}
+  .stato{color:var(--muted);font-size:12px}
+  .refresh{background:none;border:1px solid var(--line);color:var(--muted);
+           border-radius:8px;padding:5px 10px;font-size:12px;cursor:pointer}
+  h2{font-size:13px;margin:20px 0 8px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+  a.item{display:flex;gap:12px;align-items:flex-start;background:var(--card);
+         border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:8px;
+         text-decoration:none;color:inherit}
+  .item img{width:46px;height:68px;object-fit:cover;border-radius:6px;flex:0 0 auto;background:#000}
+  .item .t{font-size:14px;font-weight:600;line-height:1.35}
+  .item .m{font-size:12px;color:var(--muted);margin-top:4px}
+  .data{flex:0 0 auto;font-size:12px;color:var(--accent2);font-weight:700;
+        text-align:right;min-width:54px;padding-top:2px}
+  .pill{display:inline-block;font-size:10px;padding:2px 7px;border-radius:999px;
+        font-weight:700;margin-right:6px}
+  .pill.dd{background:var(--accent);color:#fff}
+  .pill.tb{background:var(--accent2);color:#2a2000}
+  .vuoto{color:var(--muted);font-size:13px;padding:16px 0;line-height:1.5}
+  footer{color:var(--muted);font-size:11px;text-align:center;padding:22px 0 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>📚 Fumetti</h1>
+  <div class="tabs">
+    <button class="tab active" data-v="uscite">Ultime uscite</button>
+    <button class="tab" data-v="notizie">Notizie</button>
+  </div>
+  <div class="barra">
+    <span class="stato" id="stato">Carico…</span>
+    <button class="refresh" id="refresh">↻ Aggiorna</button>
+  </div>
+</header>
+
+<main id="app"></main>
+<footer>Aggiornato dal robot · i link aprono i siti ufficiali</footer>
+
+<script>
+/* La pagina NON legge più i siti da sola: legge data.json, che il robot
+   (GitHub Actions) rigenera ogni 6 ore. Qui dentro non c'è niente da toccare. */
+
+let DATI = { elementi: [], aggiornato: "" };
+let vista = "uscite";
+
+function fmt(iso){
+  if(!iso) return "";
+  const d = new Date(iso);
+  if(isNaN(d)) return iso;
+  return d.toLocaleDateString("it-IT",{day:"2-digit",month:"short"});
+}
+function pill(serie){
+  if(/dylan\s*dog/i.test(serie)) return '<span class="pill dd">Dylan Dog</span>';
+  if(/bellasalma/i.test(serie))  return '<span class="pill tb">Bellasalma</span>';
+  return "";
+}
+function riga(o){
+  const img = o.cover ? `<img src="${o.cover}" loading="lazy" referrerpolicy="no-referrer" alt="">` : "";
+  return `<a class="item" href="${o.link||'#'}" target="_blank" rel="noopener">
+    ${img}
+    <div style="flex:1">${pill(o.serie||"")}
+      <div class="t">${o.titolo}</div>
+      <div class="m">${o.sotto || o.editore || o.fonte || ""}</div></div>
+    <div class="data">${fmt(o.data)}</div></a>`;
+}
+function sezione(titolo, lista){
+  if(!lista.length) return "";
+  return `<h2>${titolo}</h2>` + lista.map(riga).join("");
+}
+
+function render(){
+  const app = document.getElementById("app");
+  const E = DATI.elementi || [];
+  const uscite = E.filter(x=>x.tipo==="uscita");
+  const news   = E.filter(x=>x.tipo==="news");
+  let h = "";
+
+  if(vista==="uscite"){
+    h += sezione("Dylan Dog", uscite.filter(x=>/dylan\s*dog/i.test(x.serie)));
+    h += sezione("Toni Bellasalma", uscite.filter(x=>/bellasalma/i.test(x.serie)));
+    h += sezione("Altre uscite Bonelli",
+          uscite.filter(x=>x.editore==="Bonelli" && !/dylan\s*dog/i.test(x.serie)));
+    h += sezione("Altre uscite Bugs Comics",
+          uscite.filter(x=>x.editore==="Bugs Comics" && !/bellasalma/i.test(x.serie)));
+    if(!h) h = '<div class="vuoto">Ancora nessuna uscita. Dopo che il robot gira la prima volta, compaiono qui.</div>';
+  } else {
+    h += sezione("Notizie", news);
+    if(!h) h = '<div class="vuoto">Ancora nessuna notizia.</div>';
+  }
+  app.innerHTML = h;
+}
+
+async function carica(){
+  document.getElementById("stato").textContent = "Carico…";
+  try{
+    const r = await fetch("data.json?v=" + Date.now());
+    DATI = await r.json();
+    document.getElementById("stato").textContent =
+      "Aggiornato il " + fmt(DATI.aggiornato) + " · " + (DATI.conteggio || 0) + " elementi";
+  }catch(e){
+    document.getElementById("stato").textContent = "Non riesco a leggere data.json";
+  }
+  render();
+}
+
+document.querySelector(".tabs").addEventListener("click", e=>{
+  const b = e.target.closest(".tab"); if(!b) return;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.remove("active"));
+  b.classList.add("active"); vista = b.dataset.v; render();
+});
+document.getElementById("refresh").addEventListener("click", carica);
+
+if("serviceWorker" in navigator){ navigator.serviceWorker.register("sw.js").catch(()=>{}); }
+carica();
+</script>
+</body>
+</html>

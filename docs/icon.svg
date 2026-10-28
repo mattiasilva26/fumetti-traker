@@ -1,5 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="110" fill="#0f0f14"/>
-  <circle cx="256" cy="256" r="150" fill="none" stroke="#e23b3b" stroke-width="26"/>
-  <circle cx="256" cy="256" r="60" fill="#ffc043"/>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1c2a"/>
+      <stop offset="1" stop-color="#090910"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="42%" cy="40%" r="62%">
+      <stop offset="0%" stop-color="#fff8e6"/>
+      <stop offset="62%" stop-color="#f1e2ad"/>
+      <stop offset="100%" stop-color="#e4d08a"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#sky)"/>
+  <g fill="#f1e2ad">
+    <circle cx="96" cy="130" r="3.2" opacity="0.8"/>
+    <circle cx="150" cy="300" r="2.4" opacity="0.6"/>
+    <circle cx="110" cy="412" r="2.6" opacity="0.7"/>
+    <circle cx="436" cy="150" r="2.6" opacity="0.6"/>
+    <circle cx="412" cy="372" r="3" opacity="0.7"/>
+    <circle cx="420" cy="258" r="2.2" opacity="0.5"/>
+  </g>
+  <circle cx="256" cy="212" r="124" fill="url(#moon)"/>
+  <circle cx="224" cy="186" r="18" fill="#e2d085" opacity="0.45"/>
+  <circle cx="286" cy="236" r="26" fill="#e2d085" opacity="0.4"/>
+  <circle cx="270" cy="168" r="11" fill="#e2d085" opacity="0.4"/>
+  <circle cx="214" cy="248" r="12" fill="#e2d085" opacity="0.35"/>
+  <g fill="#0a0a12">
+    <ellipse cx="256" cy="250" rx="21" ry="30"/>
+    <path d="M245 226 L239 200 L259 222 Z"/>
+    <path d="M267 226 L273 200 L253 222 Z"/>
+    <path d="M270 236 C 298 214 334 210 362 228 L 372 204 C 377 226 390 238 410 234 L 424 212 C 428 238 416 258 426 280 C 402 268 380 274 368 292 L 356 270 C 334 282 308 282 290 270 C 281 258 279 246 270 244 Z"/>
+    <path transform="translate(512,0) scale(-1,1)" d="M270 236 C 298 214 334 210 362 228 L 372 204 C 377 226 390 238 410 234 L 424 212 C 428 238 416 258 426 280 C 402 268 380 274 368 292 L 356 270 C 334 282 308 282 290 270 C 281 258 279 246 270 244 Z"/>
+  </g>
+  <circle cx="250" cy="244" r="3.4" fill="#e23b3b"/>
+  <circle cx="262" cy="244" r="3.4" fill="#e23b3b"/>
 </svg>
