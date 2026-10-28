@@ -1,5 +1,206 @@
 {
-  "aggiornato": "2026-10-28T09:44:02.349082+00:00",
-  "conteggio": 0,
-  "elementi": []
+  "aggiornato": "2026-10-28T09:57:21.773460+00:00",
+  "conteggio": 20,
+  "elementi": [
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Gli eventi di oggi a Lucca Comics 2026",
+      "data": "2026-10-27",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/gli-eventi-di-oggi-a-lucca-comics-2026/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il merchandising per Lucca Comics 2026!",
+      "data": "2026-10-26",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/il-merchandising-per-lucca-comics-2026/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "A tutto variant!",
+      "data": "2026-10-22",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/a-tutto-variant/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog 40 anni di paura 6",
+      "data": "2026-10-22",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-6/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le novità librarie di Lucca 2026!",
+      "data": "2026-10-21",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/le-novita-librarie-di-lucca-2026/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le Strisce di Zagor 87",
+      "data": "2026-10-21",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_30.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-87/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I firmacopie di Lucca Comics 2026!",
+      "data": "2026-10-20",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/linea-300x4.jpg",
+      "link": "https://www.sergiobonelli.it/i-firmacopie-di-lucca-comics-2026/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Sospensione delle spedizioni",
+      "data": "2026-10-20",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/sospensione-delle-spedizioni/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le regole di Kid Yugi",
+      "data": "2026-10-19",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/le-regole-di-kid-yugi/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le Strisce di Tex 263",
+      "data": "2026-10-19",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tex-Strisce-263_serieXXXI_comanches_16_cover.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-263/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "B.U.G.S. Bureau unit for Global Security",
+      "data": "2025-10-09",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2025/10/bugs-bureau-750x1024.png",
+      "link": "https://www.bugscomics.com/b-u-g-s-bureau-unit-for-global-security/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "L’Insonne a Lucca C&G",
+      "data": "2025-10-09",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2025/10/8FE76783-9EB0-46BD-BAD7-DFF45538DFC0-749x1024.png",
+      "link": "https://www.bugscomics.com/linsonne-a-lucca-cg/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Il Diario di Hobur",
+      "data": "2024-05-24",
+      "cover": "",
+      "link": "https://www.bugscomics.com/il-diario-di-hobur/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Benvenuto in 𝐁𝐔𝐆𝐒 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝟐𝟎𝟐𝟒!",
+      "data": "2024-05-07",
+      "cover": "",
+      "link": "https://www.bugscomics.com/benvenuto-in-bugs-challenge-2024/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Arrivano sullo shop gli artbook di Samuel e Kalya!",
+      "data": "2024-03-25",
+      "cover": "",
+      "link": "https://www.bugscomics.com/arrivano-sullo-shop-gli-artbook-di-samuel-e-kalya/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "A Lucca Collezionando: BUGS Comics e gli artbook di Samuel e Kalya!",
+      "data": "2024-03-07",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2024/03/ARTBOOK-SAMUEL-cover-REGULAR-751x1024.jpg",
+      "link": "https://www.bugscomics.com/a-lucca-collezionando-bugs-comics-e-gli-artbook-di-samuel-e-kalya/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Arrivano gli Artbook di Samuel Stern e Kalya",
+      "data": "2024-02-27",
+      "cover": "",
+      "link": "https://www.bugscomics.com/arrivano-gli-artbook-di-samuel-stern-e-kalya/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Un nuovo inizio, un nuovo sito!",
+      "data": "2023-12-19",
+      "cover": "",
+      "link": "https://www.bugscomics.com/un-nuovo-inizio-un-nuovo-sito/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "I corsi online Bugs Academy disegnati su di te!",
+      "data": "2023-12-19",
+      "cover": "",
+      "link": "https://www.bugscomics.com/primo-articolo/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Benvenuti nel Bugs Friends’ Club",
+      "data": "2023-12-19",
+      "cover": "",
+      "link": "https://www.bugscomics.com/benvenuti-nel-bugs-friends-club/",
+      "fonte": "Bugs Comics"
+    }
+  ]
 }
