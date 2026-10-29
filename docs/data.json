@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-29T12:17:49.516638+00:00",
-  "conteggio": 74,
+  "aggiornato": "2026-10-29T22:26:18.181756+00:00",
+  "conteggio": 75,
   "elementi": [
     {
       "tipo": "uscita",
@@ -301,6 +301,26 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi-Logos_cover-REGULAR.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/logos/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "Dylan Dog",
+      "titolo": "“Incubi”, il nuovo podcast di Stefano Nazzi ispirato a Dylan Dog",
+      "data": "2026-10-29",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/10/incubi-londra-1888-podcast-stefano-nazzi-670x377.webp",
+      "link": "https://fumettologica.it/2026/10/incubi-podcast-stefano-nazzi-dylan-dog/",
+      "fonte": "Fumettologica"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "L’incontro di Dragonero",
+      "data": "2026-10-29",
+      "cover": "https://www.youtube.com/embed/8x96m54S-F4",
+      "link": "https://www.sergiobonelli.it/lincontro-di-dragonero/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -700,16 +720,6 @@
       "data": "2026-10-21",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_30.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-87/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "I firmacopie di Lucca Comics 2026!",
-      "data": "2026-10-20",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/linea-300x4.jpg",
-      "link": "https://www.sergiobonelli.it/i-firmacopie-di-lucca-comics-2026/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
