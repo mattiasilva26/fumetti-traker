@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-10-30T04:20:11.594370+00:00",
-  "conteggio": 75,
+  "aggiornato": "2026-10-30T12:08:04.263537+00:00",
+  "conteggio": 74,
   "elementi": [
     {
       "tipo": "uscita",
@@ -50,16 +50,6 @@
       "data": "2026-11-20",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/mm_grandimisteri0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/i-grandi-misteri-di-martin-mystere/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog. Storia di nessuno – Edizione limitata numerata",
-      "data": "2026-11-20",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Dylan_Dog_Deluxe_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno-edizione-limitata-numerata/",
       "fonte": "Bonelli"
     },
     {
@@ -425,6 +415,16 @@
     {
       "tipo": "uscita",
       "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Storia di nessuno – Edizione limitata numerata",
+      "data": "2026-10-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Dylan_Dog_Deluxe_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno-edizione-limitata-numerata/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
       "serie": "",
       "titolo": "Tex Gigante. La tragica notte",
       "data": "2026-10-28",
@@ -710,16 +710,6 @@
       "data": "2026-10-21",
       "cover": "",
       "link": "https://www.sergiobonelli.it/le-novita-librarie-di-lucca-2026/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le Strisce di Zagor 87",
-      "data": "2026-10-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_30.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-87/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
