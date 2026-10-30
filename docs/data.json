@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-30T12:08:04.263537+00:00",
+  "aggiornato": "2026-10-30T21:56:00.580649+00:00",
   "conteggio": 74,
   "elementi": [
     {
@@ -291,6 +291,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi-Logos_cover-REGULAR.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/logos/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog Horror Show, nuove date!",
+      "data": "2026-10-30",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/dylan-dog-horror-show-nuove-date/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "news",
@@ -701,16 +711,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tex-Nuova-Ristampa-534_Cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/la-valle-dellodio-4/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le novità librarie di Lucca 2026!",
-      "data": "2026-10-21",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/le-novita-librarie-di-lucca-2026/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
