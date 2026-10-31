@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-31T03:59:40.024335+00:00",
+  "aggiornato": "2026-10-31T11:40:55.639739+00:00",
   "conteggio": 74,
   "elementi": [
     {
@@ -283,6 +283,16 @@
       "fonte": "Bugs Comics"
     },
     {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "Lo Showcase di Dylan Dog!",
+      "data": "2026-10-31",
+      "cover": "https://www.youtube.com/embed/y0ThPzW9jVg",
+      "link": "https://www.sergiobonelli.it/lo-showcase-di-dylan-dog/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -350,6 +360,16 @@
       "data": "2026-10-29",
       "cover": "https://www.youtube.com/embed/8x96m54S-F4",
       "link": "https://www.sergiobonelli.it/lincontro-di-dragonero/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog 40 anni di Paura 7",
+      "data": "2026-10-29",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-7/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
@@ -691,26 +711,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/16_Maxi-Tex-39_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/pagati-per-uccidere/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "A tutto variant!",
-      "data": "2026-10-22",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/a-tutto-variant/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog 40 anni di paura 6",
-      "data": "2026-10-22",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-6/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
