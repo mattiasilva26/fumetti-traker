@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-30T21:56:00.580649+00:00",
+  "aggiornato": "2026-10-31T03:59:40.024335+00:00",
   "conteggio": 74,
   "elementi": [
     {
@@ -251,6 +251,36 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/20_Dylan-Dog-482_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/lultimo-treno-della-notte/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Toni Bellasalma 12 – Il fiocco di neve dell’armageddon (Cover B)",
+      "data": "2026-10-31",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/T-BELLASALMA-012-IL-FIOCCO-DI-NEVE-DELLARMAGEDDON-Cov-B-copia.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-12-il-fiocco-di-neve-dellarmageddon-b/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Toni Bellasalma 12 – Il fiocco di neve dell’armageddon (Cover A)",
+      "data": "2026-10-31",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/T-BELLASALMA-012-IL-FIOCCO-DI-NEVE-DELLARMAGEDDON-Cov-A.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-12-il-fiocco-di-neve-dellarmageddon/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Toni Bellasalma 12 – Il fiocco di neve dell’armageddon (Cover C)",
+      "data": "2026-10-31",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/T-BELLASALMA-012-IL-FIOCCO-DI-NEVE-DELLARMAGEDDON-Cov-C-copia.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-12-il-fiocco-di-neve-dellarmageddon-c/",
+      "fonte": "Bugs Comics"
     },
     {
       "tipo": "uscita",
@@ -603,26 +633,6 @@
       "fonte": "Bugs Comics"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "L’Insonne – Storie brevi II (Variant)",
-      "data": "2026-10-28",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover-variant.jpg",
-      "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii-variant/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "Toni Bellasalma",
-      "titolo": "TONI & SAMUEL – Il protocollo della soglia (Samuel)",
-      "data": "2026-10-28",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/TONI-SAMUEL-Il-protocollo-della-soglia-Samuel-Cover.jpg",
-      "link": "https://www.bugscomics.com/prodotto/toni-samuel-il-protocollo-della-soglia-samuel/",
-      "fonte": "Bugs Comics"
-    },
-    {
       "tipo": "news",
       "editore": "Sergio Bonelli Editore",
       "serie": "",
@@ -731,16 +741,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Cofanetto-Tex_2025.png",
       "link": "https://www.sergiobonelli.it/prodotto/un-anno-con-tex-2025/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "Toni Bellasalma",
-      "titolo": "Toni Bellasalma 11 – Serenata",
-      "data": "2026-09-30",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/09/IMG_5059-1.jpeg",
-      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-11-serenata/",
-      "fonte": "Bugs Comics"
     }
   ]
 }
