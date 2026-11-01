@@ -122,6 +122,47 @@ COLOR_FEST_ARCHIVE = [
     (58, "Lo spazio bianco", "2026-08-08"),
 ]
 COLOR_FEST_NUMBERS_BY_DATE = {release_date: number for number, _, release_date in COLOR_FEST_ARCHIVE}
+COLOR_FEST_COVERS = {
+    21: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1494531087i/35116419.jpg",
+    22: "https://edicolaonline.store/cdn/shop/files/57_ba8ad35b-ed41-4d8b-8fe1-d767733b3d17.jpg?v=1721481913&width=1946",
+    23: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/DYLAN-DOG-COLOR-FEST-23.jpg",
+    24: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/DYLAN-DOG-COLOR-FEST-24.jpg",
+    25: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/1522767581357.jpg--i_conigli_rosa_muoiono___dylan_dog_color_fest_25_cover.jpg",
+    26: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533917270i/41092234.jpg",
+    27: "https://edicolaonline.store/cdn/shop/files/57_86b6f85c-0f18-4f1f-9f6a-4ca3bddf7d63.jpg?v=1721481802&width=1946",
+    30: "https://cafans.b-cdn.net/images/Category_122670/subcat_201814/SP1O3mzX_2812231027041gpaiadd.png",
+    34: "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1593179251863.png",
+    35: "https://mycomics.it/wp-content/uploads/sites/16/2022/01/FUMDYLDOC0035-1.jpg",
+    36: "https://www.libellus.hr/upload/images/modules/webshop/products/original/798-ddkolor36naslovnica.jpg",
+    37: "https://i.ebayimg.com/images/g/GLYAAOSwF05gi-GK/s-l1200.jpg",
+    40: "https://www.lospaziobianco.it/wp-content/uploads/2022/02/10.jpg",
+    41: "https://i.ebayimg.com/images/g/uNIAAOSw~-VlX1oY/s-l1200.png",
+    43: "https://mycomics.it/wp-content/uploads/sites/16/2022/10/FUMDYLDOC0043.jpg",
+    44: "https://www.ciavula.it/wp-content/uploads/2023/02/1673280362627.png-il_verme_bianco___dylan_dog_color_fest_44.png",
+    48: "https://edicola.shop/media/catalog/product/c/a/cac62f719c.jpg",
+    49: "https://mycomics.it/wp-content/uploads/sites/16/2024/05/Dylan-Dog-Color-Fest-49.jpeg",
+    51: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/DYLAN%20DOG%20COLOR%20FEST051.jpg",
+    52: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/DYLAN%20DOG%20COLOR%20FEST052.jpg",
+    53: "https://mycomics.it/wp-content/uploads/sites/16/2025/05/Dylan-Dog-Color-Fest-53-A-Prova-di-Morte.jpg",
+    54: "https://mycomics.it/wp-content/uploads/sites/16/2025/08/Dylan-Dog-Color-Fest-54-Estranei-Sergio-Bonelli-Editore-Italiano.jpg",
+    55: "https://www.fumetto-online.it/ew/ew_albi/images/BONELLI%20EDITORE/1761209875478.png--cosa_conosce_la_notte___dylan_dog_colorfest_55.png",
+    56: "https://www.sergiobonelli.it/wp-content/uploads/2026/01/08_Dylan-Dog-Color-Fest-56_cover-776x1024.jpg",
+    58: "https://mycomics.it/wp-content/uploads/sites/16/2026/06/Dylan-Dog-Color-Fest-58-Lo-spazio-Bianco.jpg",
+}
+OLDBOY_NEW_SERIE = [
+    (1, "Skinwalker", "2025-04-12", "https://www.acmefumetti.com/cdn/shop/files/00043DDON0001.jpg?v=1744716756"),
+    (2, "Il contrario e l'opposto", "2025-06-12", "https://www.valledaostaglocal.it/fill/1000/997/fileadmin/archivio/valledaostaglocal/2025/06/Dylan_Dog_-_Il_contrario_e_l_opposto_-_Copertina.jpg"),
+    (3, "Amabili ricordi", "2025-08-13", "https://edicola.shop/media/catalog/product/cache/1/image/600x/17f82f742ffe127f42dca9de82fb58b1/7/0/70e8acc29f.jpg"),
+    (4, "Il mondo di un sogno migliore", "2025-10-15", "https://mycomics.it/wp-content/uploads/sites/16/2025/09/Dylan-Dog-Oldboy-Nuova-Serie-4-Il-Mondo-di-un-Sogno-Migliore.jpg"),
+    (5, "Fantasmi di guerra", "2025-12-13", "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1762508562420.jpg"),
+    (6, "Invisibili", "2026-02-13", "https://mycomics.it/wp-content/uploads/sites/16/2026/02/Dylan-Dog-Oldboy-Nuova-Serie-6-Invisibili.jpg"),
+    (7, "Oblio", "2026-04-11", "https://edicola.shop/media/catalog/product/a/3/a3a49ce29b.jpg"),
+    (8, "Il patto di sabbia", "2026-06-11", "https://mycomics.it/wp-content/uploads/sites/16/2026/04/Dylan-Dog-Oldboy-Nuova-Serie-8-Il-Patto-di-Sabbia.jpg"),
+    (9, "La figlia del silenzio", "2026-08-13", ""),
+    (10, "Memory Lane", "2026-10-15", ""),
+]
+OLDBOY_NEW_SERIE_BY_DATE = {release_date: (number, title, cover)
+                            for number, title, release_date, cover in OLDBOY_NEW_SERIE}
 
 
 def _color_fest_number(title, release_date):
@@ -232,6 +273,8 @@ def fetch_publisher(pub):
         is_release = in_window and (serie == "Dylan Dog" or not pub.get("require_collana") or any(
             c.startswith("pa_collana-") for c in classes
         ))
+        if pub["editore"] == "Bonelli" and (data in COLOR_FEST_NUMBERS_BY_DATE or data in OLDBOY_NEW_SERIE_BY_DATE):
+            serie = "Dylan Dog"
         if not serie and not is_release:
             continue
 
@@ -239,8 +282,10 @@ def fetch_publisher(pub):
             titolo_low = titolo.casefold()
             if "cofanetto" in titolo_low or "box" in titolo_low:
                 collana = "Cofanetti"
-            elif "color fest" in titolo_low or "colorfest" in titolo_low:
+            elif data in COLOR_FEST_NUMBERS_BY_DATE or "color fest" in titolo_low or "colorfest" in titolo_low:
                 collana = "Color Fest"
+            elif data in OLDBOY_NEW_SERIE_BY_DATE or "oldboy-seconda-serie" in joined:
+                collana = "Oldboy seconda serie"
             elif "oldboy" in titolo_low or "old boy" in titolo_low:
                 collana = "Oldboy"
             elif "speciale" in titolo_low:
@@ -261,6 +306,7 @@ def fetch_publisher(pub):
             collana = "Toni Bellasalma"
 
         rows.append({"id": p.get("id"), "data": data, "serie": serie, "collana": collana,
+                     "numero": (COLOR_FEST_NUMBERS_BY_DATE.get(data) or (OLDBOY_NEW_SERIE_BY_DATE.get(data) or (None,))[0]),
                      "uscita": is_release, "titolo": titolo,
                      "link": p.get("link", ""), "fm": p.get("featured_media")})
         media_ids.append(p.get("featured_media"))
@@ -275,7 +321,7 @@ def fetch_publisher(pub):
                 "editore": pub["editore"],
                 "serie": r["serie"],
                 "collana": r["collana"],
-                "numero": _color_fest_number(r["titolo"], r["data"]) if r["collana"] == "Color Fest" else None,
+                "numero": r.get("numero") or (_color_fest_number(r["titolo"], r["data"]) if r["collana"] == "Color Fest" else None),
                 "titolo": r["titolo"],
                 "data": r["data"],
                 "cover": mmap.get(r["fm"], ""),
@@ -389,7 +435,23 @@ def fetch_all():
             "numero": number,
             "titolo": f"Dylan Dog Color Fest {number} – {title}",
             "data": release_date,
-            "cover": "",
+            "cover": COLOR_FEST_COVERS.get(number, ""),
             "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
+        })
+    for number, title, release_date, cover in OLDBOY_NEW_SERIE:
+        if any(x.get("collana") == "Oldboy seconda serie" and x.get("data") == release_date
+               for x in COLLECTION):
+            continue
+        COLLECTION.append({
+            "id": f"dylan-dog-oldboy-seconda-serie-{number}",
+            "tipo": "collezione",
+            "editore": "Bonelli",
+            "serie": "Dylan Dog",
+            "collana": "Oldboy seconda serie",
+            "numero": number,
+            "titolo": f"Dylan Dog Oldboy Seconda Serie {number} – {title}",
+            "data": release_date,
+            "cover": cover,
+            "link": "https://www.sergiobonelli.it/collana/dylan-dog-oldboy-seconda-serie/",
         })
     return tutto
