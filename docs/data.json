@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-01T14:10:09.715815+00:00",
+  "aggiornato": "2026-11-01T21:47:24.168500+00:00",
   "conteggio": 84,
   "elementi": [
     {
@@ -274,6 +274,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/dd_albamorti_scene0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-variant/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "L’incontro di Dylan Dog!",
+      "data": "2026-11-01",
+      "cover": "https://www.youtube.com/embed/-RqFKNY7-zw",
+      "link": "https://www.sergiobonelli.it/lincontro-di-dylan-dog/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "news",
@@ -703,16 +713,6 @@
       "data": "2026-10-28",
       "cover": "",
       "link": "https://www.sergiobonelli.it/vasco-rossi-sulle-ali-del-successo/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Gli eventi di oggi a Lucca Comics 2026",
-      "data": "2026-10-27",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/gli-eventi-di-oggi-a-lucca-comics-2026/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
