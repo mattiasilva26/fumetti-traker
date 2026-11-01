@@ -65,6 +65,18 @@ NEWS_FEEDS = [
     "https://www.sergiobonelli.it/feed/",
 ]
 PAROLE = ["dylan dog", "bellasalma", "bonelli", "bugs comics", "sclavi", "samuel stern"]
+UPCOMING_DYLAN = [{
+    "id": "dylan-dog-color-fest-59",
+    "tipo": "uscita",
+    "editore": "Bonelli",
+    "serie": "Dylan Dog",
+    "collana": "Color Fest",
+    "titolo": "Dylan Dog Color Fest 59 – Dedicato a Ambrosini",
+    "data": "2026-11-07",
+    "cover": "https://mycomics.it/wp-content/uploads/sites/16/2026/09/Dylan-Dog-Color-Fest-59-Dedicato-a-Ambrosini.jpg",
+    "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
+    "fonte": "MyComics preordini",
+}]
 
 
 def _get_json(url, params=None):
@@ -150,7 +162,11 @@ def fetch_publisher(pub):
             continue
 
         joined = " ".join(classes)
-        merchandising = "product_cat-merchandising" in classes
+        merchandising = "product_cat-merchandising" in classes or bool(re.search(
+            r"t[ -]?shirt|magliett|cappellin|tazza|portachiav|plaid|puzzle|medaglia",
+            titolo,
+            re.IGNORECASE,
+        ))
         serie = ""
         if not merchandising and ("dylan-dog" in joined or re.search(r"dylan\s*dog", titolo, re.IGNORECASE)):
             serie = "Dylan Dog"
@@ -163,7 +179,7 @@ def fetch_publisher(pub):
                 in_window = _dt.date.fromisoformat(data) >= today - _dt.timedelta(days=pub["window_days"])
             except ValueError:
                 pass
-        is_release = in_window and (not pub.get("require_collana") or any(
+        is_release = in_window and (serie == "Dylan Dog" or not pub.get("require_collana") or any(
             c.startswith("pa_collana-") for c in classes
         ))
         if not serie and not is_release:
@@ -217,7 +233,14 @@ def fetch_publisher(pub):
 
     recent_rows = [row for row in rows if row["uscita"]]
 
-    for r in recent_rows[:pub.get("max", 50)]:
+    selected_rows = recent_rows[:pub.get("max", 50)]
+    selected_ids = {row["id"] for row in selected_rows}
+    selected_rows.extend(
+        row for row in recent_rows
+        if row["serie"] == "Dylan Dog" and row["id"] not in selected_ids
+    )
+
+    for r in selected_rows:
         out.append({
             "tipo": "uscita",
             "editore": pub["editore"],
@@ -298,4 +321,8 @@ def fetch_all():
         tutto.extend(n)
     except Exception as e:  # noqa: BLE001
         print(f"   [errore] notizie: {e}", file=sys.stderr)
+    for item in UPCOMING_DYLAN:
+        if not any(x.get("titolo", "").casefold() == item["titolo"].casefold() for x in tutto):
+            tutto.append(item)
+        COLLECTION.append({**item, "tipo": "collezione"})
     return tutto
