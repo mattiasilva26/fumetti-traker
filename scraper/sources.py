@@ -71,12 +71,62 @@ UPCOMING_DYLAN = [{
     "editore": "Bonelli",
     "serie": "Dylan Dog",
     "collana": "Color Fest",
+    "numero": 59,
     "titolo": "Dylan Dog Color Fest 59 – Dedicato a Ambrosini",
     "data": "2026-11-07",
     "cover": "https://mycomics.it/wp-content/uploads/sites/16/2026/09/Dylan-Dog-Color-Fest-59-Dedicato-a-Ambrosini.jpg",
     "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
     "fonte": "MyComics preordini",
 }]
+
+# L'API prodotti Bonelli non restituisce sempre tutti gli arretrati della
+# collana Color Fest. Archivio ufficiale: numeri 21-58.
+COLOR_FEST_ARCHIVE = [
+    (21, "Lo scuotibare", "2017-05-05"),
+    (22, "Remake 2", "2017-08-09"),
+    (23, "Il convento del vuoto", "2017-11-08"),
+    (24, "Strani giorni", "2018-02-08"),
+    (25, "I conigli rosa muoiono", "2018-05-05"),
+    (26, "Creepy Past", "2018-08-09"),
+    (27, "Il male infinito", "2018-11-08"),
+    (28, "Gotico inglese", "2019-02-08"),
+    (29, "Se una notte d'inverno un assassino", "2019-05-08"),
+    (30, "Groucho Primo", "2019-08-09"),
+    (31, "Selezione innaturale", "2019-11-08"),
+    (32, "Altre visioni", "2020-02-08"),
+    (33, "Delitti e castighi", "2020-05-08"),
+    (34, "Groucho Secondo", "2020-08-08"),
+    (35, "Nuove visioni", "2020-11-06"),
+    (36, "Mister Punch", "2021-02-09"),
+    (37, "Doppio orrore", "2021-05-08"),
+    (38, "Groucho Terzo", "2021-08-06"),
+    (39, "Stati di paura", "2021-11-17"),
+    (40, "Estreme visioni", "2022-02-09"),
+    (41, "L'orrore delle armi", "2022-05-10"),
+    (42, "Groucho Quarto", "2022-08-06"),
+    (43, "Utopia modulare", "2022-11-05"),
+    (44, "Il verme bianco", "2023-02-08"),
+    (45, "Luci e ombre", "2023-05-10"),
+    (46, "Groucho Quinto", "2023-08-09"),
+    (47, "I vivi e gli altri", "2023-11-08"),
+    (48, "Il risveglio", "2024-02-08"),
+    (49, "Lettere dall'incubo", "2024-05-08"),
+    (50, "Groucho (fuori di) sesto", "2024-08-08"),
+    (51, "Strade perdute", "2024-11-08"),
+    (52, "Non vale se non hai paura", "2025-02-08"),
+    (53, "A prova di morte", "2025-05-08"),
+    (54, "Estranei", "2025-08-09"),
+    (55, "Cosa conosce la notte", "2025-11-08"),
+    (56, "Dissolvenza al nero", "2026-02-10"),
+    (57, "Destinazione: terrore!", "2026-05-08"),
+    (58, "Lo spazio bianco", "2026-08-08"),
+]
+COLOR_FEST_NUMBERS_BY_DATE = {release_date: number for number, _, release_date in COLOR_FEST_ARCHIVE}
+
+
+def _color_fest_number(title, release_date):
+    match = re.search(r"color\s*fest\s*(?:n\.?\s*)?(\d+)", title, re.IGNORECASE)
+    return int(match.group(1)) if match else COLOR_FEST_NUMBERS_BY_DATE.get(release_date)
 
 
 def _get_json(url, params=None):
@@ -225,6 +275,7 @@ def fetch_publisher(pub):
                 "editore": pub["editore"],
                 "serie": r["serie"],
                 "collana": r["collana"],
+                "numero": _color_fest_number(r["titolo"], r["data"]) if r["collana"] == "Color Fest" else None,
                 "titolo": r["titolo"],
                 "data": r["data"],
                 "cover": mmap.get(r["fm"], ""),
@@ -325,4 +376,20 @@ def fetch_all():
         if not any(x.get("titolo", "").casefold() == item["titolo"].casefold() for x in tutto):
             tutto.append(item)
         COLLECTION.append({**item, "tipo": "collezione"})
+    for number, title, release_date in COLOR_FEST_ARCHIVE:
+        if any(x.get("collana") == "Color Fest" and x.get("data") == release_date
+               for x in COLLECTION):
+            continue
+        COLLECTION.append({
+            "id": f"dylan-dog-color-fest-{number}",
+            "tipo": "collezione",
+            "editore": "Bonelli",
+            "serie": "Dylan Dog",
+            "collana": "Color Fest",
+            "numero": number,
+            "titolo": f"Dylan Dog Color Fest {number} – {title}",
+            "data": release_date,
+            "cover": "",
+            "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
+        })
     return tutto
