@@ -1,6 +1,10 @@
 name: Aggiorna dati fumetti
 
 on:
+  push:
+    paths:
+      - "scraper/**"
+      - ".github/workflows/aggiorna.yml"
   schedule:
     - cron: "0 */6 * * *"   # ogni 6 ore (orario UTC)
   workflow_dispatch:         # pulsante "Run workflow" per lanciarlo a mano

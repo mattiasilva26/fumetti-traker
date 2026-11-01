@@ -43,7 +43,7 @@ PUBLISHERS = [
         "api": "https://www.sergiobonelli.it/wp-json/wp/v2/product",
         "media": "https://www.sergiobonelli.it/wp-json/wp/v2/media",
         "date_from": "attribute",     # usa pa_data-di-uscita (date reali, anche future)
-        "require_collana": True,       # solo albi/volumi, niente merchandising
+        "require_collana": True,       # limita la sezione edicola agli albi
         "window_days": 60,             # scarta roba piu' vecchia di 60 giorni (tiene tutto il futuro)
         "max": 50,
     },
@@ -117,7 +117,7 @@ def _media_map(media_url, ids):
 def fetch_publisher(pub):
     out = []
     prods = []
-    for page in range(1, 31):
+    for page in range(1, 101):
         batch = _get_json(pub["api"], {
             "orderby": "date", "order": "desc", "per_page": 100, "page": page,
             "_fields": "id,title,link,class_list,featured_media,date",
@@ -135,30 +135,67 @@ def fetch_publisher(pub):
 
     for p in prods:
         classes = _classes(p)
-        if pub.get("require_collana") and not any(c.startswith("pa_collana-") for c in classes):
-            continue
         if pub.get("require_cat_fumetti") and "product_cat-fumetti" not in classes:
             continue
 
         if pub["date_from"] == "attribute":
             data = _uscita_date(classes)
             if not data:
-                continue
+                data = (p.get("date") or "")[:10]
         else:
             data = (p.get("date") or "")[:10]
-
-        joined = " ".join(classes)
-        serie = ""
-        if "dylan-dog" in joined:
-            serie = "Dylan Dog"
-        elif "toni-bellasalma" in joined:
-            serie = "Toni Bellasalma"
 
         titolo = html.unescape(((p.get("title") or {}).get("rendered") or "")).strip()
         if not titolo:
             continue
 
-        rows.append({"id": p.get("id"), "data": data, "serie": serie, "titolo": titolo,
+        joined = " ".join(classes)
+        merchandising = "product_cat-merchandising" in classes
+        serie = ""
+        if not merchandising and ("dylan-dog" in joined or re.search(r"dylan\s*dog", titolo, re.IGNORECASE)):
+            serie = "Dylan Dog"
+        elif not merchandising and "toni-bellasalma" in joined:
+            serie = "Toni Bellasalma"
+
+        in_window = True
+        if pub.get("window_days"):
+            try:
+                in_window = _dt.date.fromisoformat(data) >= today - _dt.timedelta(days=pub["window_days"])
+            except ValueError:
+                pass
+        is_release = in_window and (not pub.get("require_collana") or any(
+            c.startswith("pa_collana-") for c in classes
+        ))
+        if not serie and not is_release:
+            continue
+
+        if serie == "Dylan Dog":
+            titolo_low = titolo.casefold()
+            if "cofanetto" in titolo_low or "box" in titolo_low:
+                collana = "Cofanetti"
+            elif "color fest" in titolo_low or "colorfest" in titolo_low:
+                collana = "Color Fest"
+            elif "oldboy" in titolo_low or "old boy" in titolo_low:
+                collana = "Oldboy"
+            elif "speciale" in titolo_low:
+                collana = "Speciale"
+            elif "maxi" in titolo_low:
+                collana = "Maxi"
+            elif "almanacco" in titolo_low or "enciclopedia della paura" in titolo_low:
+                collana = "Almanacco / Enciclopedia"
+            elif "gigante" in titolo_low:
+                collana = "Gigante"
+            elif any(term in titolo_low for term in ("collezione", "book", "ristampa", "raccolta")):
+                collana = "Raccolte e ristampe"
+            elif re.search(r"dylan\s*dog\s*n\.?\s*\d+", titolo_low):
+                collana = "Serie regolare"
+            else:
+                collana = "Altre edizioni"
+        else:
+            collana = "Toni Bellasalma"
+
+        rows.append({"id": p.get("id"), "data": data, "serie": serie, "collana": collana,
+                     "uscita": is_release, "titolo": titolo,
                      "link": p.get("link", ""), "fm": p.get("featured_media")})
         media_ids.append(p.get("featured_media"))
 
@@ -171,21 +208,14 @@ def fetch_publisher(pub):
                 "tipo": "collezione",
                 "editore": pub["editore"],
                 "serie": r["serie"],
+                "collana": r["collana"],
                 "titolo": r["titolo"],
                 "data": r["data"],
                 "cover": mmap.get(r["fm"], ""),
                 "link": r["link"],
             })
 
-    recent_rows = rows
-    if pub.get("window_days"):
-        recent_rows = []
-        for row in rows:
-            try:
-                if _dt.date.fromisoformat(row["data"]) >= today - _dt.timedelta(days=pub["window_days"]):
-                    recent_rows.append(row)
-            except ValueError:
-                recent_rows.append(row)
+    recent_rows = [row for row in rows if row["uscita"]]
 
     for r in recent_rows[:pub.get("max", 50)]:
         out.append({
