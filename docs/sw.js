@@ -1,7 +1,7 @@
 // Service worker minimale: rende la PWA installabile e apribile offline.
 // Strategia: network-first per data.json (vogliamo i dati freschi),
 // cache-first per il guscio (html/icone).
-const CACHE = "fumetti-v1";
+const CACHE = "fumetti-v2";
 const SHELL = ["./", "./index.html", "./manifest.json", "./icon.svg"];
 
 self.addEventListener("install", e => {
@@ -19,13 +19,13 @@ self.addEventListener("activate", e => {
 self.addEventListener("fetch", e => {
   const url = new URL(e.request.url);
   if (url.pathname.endsWith("data.json")) {
-    // network-first
+    const cacheKey = new Request(new URL("data.json", self.registration.scope));
     e.respondWith(
       fetch(e.request).then(r => {
         const copy = r.clone();
-        caches.open(CACHE).then(c => c.put(e.request, copy));
+        caches.open(CACHE).then(c => c.put(cacheKey, copy));
         return r;
-      }).catch(() => caches.match(e.request))
+      }).catch(() => caches.match(cacheKey))
     );
   } else {
     // cache-first

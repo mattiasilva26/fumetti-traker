@@ -30,6 +30,7 @@ def main():
         "aggiornato": _dt.datetime.now(_dt.timezone.utc).isoformat(),
         "conteggio": len(elementi),
         "elementi": elementi,
+        "collezione": sources.COLLECTION,
     }
 
     os.makedirs(OUT_DIR, exist_ok=True)

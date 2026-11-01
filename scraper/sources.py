@@ -34,6 +34,7 @@ HEADERS = {
     "Accept-Language": "it-IT,it;q=0.9",
 }
 TIMEOUT = 25
+COLLECTION = []
 
 # ------------------------------------------------------------------ USCITE
 PUBLISHERS = [
@@ -115,11 +116,18 @@ def _media_map(media_url, ids):
 
 def fetch_publisher(pub):
     out = []
-    prods = _get_json(pub["api"], {
-        "orderby": "date", "order": "desc", "per_page": 100,
-        "_fields": "id,title,link,class_list,featured_media,date",
-    })
-    if not isinstance(prods, list):
+    prods = []
+    for page in range(1, 31):
+        batch = _get_json(pub["api"], {
+            "orderby": "date", "order": "desc", "per_page": 100, "page": page,
+            "_fields": "id,title,link,class_list,featured_media,date",
+        })
+        if not isinstance(batch, list):
+            break
+        prods.extend(batch)
+        if len(batch) < 100:
+            break
+    if not prods:
         return out
 
     today = _dt.date.today()
@@ -139,13 +147,6 @@ def fetch_publisher(pub):
         else:
             data = (p.get("date") or "")[:10]
 
-        if pub.get("window_days") and data:
-            try:
-                if _dt.date.fromisoformat(data) < today - _dt.timedelta(days=pub["window_days"]):
-                    continue
-            except ValueError:
-                pass
-
         joined = " ".join(classes)
         serie = ""
         if "dylan-dog" in joined:
@@ -157,13 +158,36 @@ def fetch_publisher(pub):
         if not titolo:
             continue
 
-        rows.append({"data": data, "serie": serie, "titolo": titolo,
+        rows.append({"id": p.get("id"), "data": data, "serie": serie, "titolo": titolo,
                      "link": p.get("link", ""), "fm": p.get("featured_media")})
         media_ids.append(p.get("featured_media"))
 
     mmap = _media_map(pub["media"], media_ids)
 
-    for r in rows[:pub.get("max", 50)]:
+    for r in rows:
+        if r["serie"]:
+            COLLECTION.append({
+                "id": str(r["id"] or r["link"] or r["titolo"]),
+                "tipo": "collezione",
+                "editore": pub["editore"],
+                "serie": r["serie"],
+                "titolo": r["titolo"],
+                "data": r["data"],
+                "cover": mmap.get(r["fm"], ""),
+                "link": r["link"],
+            })
+
+    recent_rows = rows
+    if pub.get("window_days"):
+        recent_rows = []
+        for row in rows:
+            try:
+                if _dt.date.fromisoformat(row["data"]) >= today - _dt.timedelta(days=pub["window_days"]):
+                    recent_rows.append(row)
+            except ValueError:
+                recent_rows.append(row)
+
+    for r in recent_rows[:pub.get("max", 50)]:
         out.append({
             "tipo": "uscita",
             "editore": pub["editore"],
@@ -227,6 +251,7 @@ def fetch_news():
 
 
 def fetch_all():
+    COLLECTION.clear()
     tutto = []
     for pub in PUBLISHERS:
         print(f"-> uscite {pub['editore']} ...")
