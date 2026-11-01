@@ -18,6 +18,15 @@ self.addEventListener("activate", e => {
 
 self.addEventListener("fetch", e => {
   const url = new URL(e.request.url);
+  if (e.request.mode === "navigate") {
+    e.respondWith(
+      fetch(e.request).then(r => {
+        caches.open(CACHE).then(c => c.put(e.request, r.clone()));
+        return r;
+      }).catch(() => caches.match(e.request))
+    );
+    return;
+  }
   if (url.pathname.endsWith("data.json")) {
     const cacheKey = new Request(new URL("data.json", self.registration.scope));
     e.respondWith(
