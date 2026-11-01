@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-01T14:02:06.141797+00:00",
+  "aggiornato": "2026-11-01T14:10:09.715815+00:00",
   "conteggio": 84,
   "elementi": [
     {
@@ -274,16 +274,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/dd_albamorti_scene0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-variant/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "L’incontro di Dylan Dog!",
-      "data": "2026-11-01",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/lincontro-di-dylan-dog/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "news",
@@ -713,6 +703,16 @@
       "data": "2026-10-28",
       "cover": "",
       "link": "https://www.sergiobonelli.it/vasco-rossi-sulle-ali-del-successo/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Gli eventi di oggi a Lucca Comics 2026",
+      "data": "2026-10-27",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/gli-eventi-di-oggi-a-lucca-comics-2026/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
@@ -1952,18 +1952,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/hikikomori/"
     },
     {
-      "id": "23721",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Cofanetti",
-      "numero": 51,
-      "titolo": "Dragonero. Gli Eroi – La banda dei folli – Variant con cofanetto",
-      "data": "2024-11-08",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1732638516486.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/dragonero-gli-eroi-la-banda-dei-folli-variant-con-cofanetto/"
-    },
-    {
       "id": "23588",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -2082,6 +2070,18 @@
       "data": "2024-10-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1729258316898.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-ghost-hotel-edizione-limitata-numerata/"
+    },
+    {
+      "id": "23569",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Altre edizioni",
+      "numero": null,
+      "titolo": "Dylan Dog. Ghost Hotel",
+      "data": "2024-11-08",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1729257584157.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-ghost-hotel/"
     },
     {
       "id": "23568",
