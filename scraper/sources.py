@@ -122,6 +122,7 @@ COLOR_FEST_ARCHIVE = [
     (58, "Lo spazio bianco", "2026-08-08"),
 ]
 COLOR_FEST_NUMBERS_BY_DATE = {release_date: number for number, _, release_date in COLOR_FEST_ARCHIVE}
+COLOR_FEST_TITLES_BY_DATE = {release_date: title for _, title, release_date in COLOR_FEST_ARCHIVE}
 COLOR_FEST_COVERS = {
     21: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1494531087i/35116419.jpg",
     22: "https://edicolaonline.store/cdn/shop/files/57_ba8ad35b-ed41-4d8b-8fe1-d767733b3d17.jpg?v=1721481913&width=1946",
@@ -163,6 +164,10 @@ OLDBOY_NEW_SERIE = [
 ]
 OLDBOY_NEW_SERIE_BY_DATE = {release_date: (number, title, cover)
                             for number, title, release_date, cover in OLDBOY_NEW_SERIE}
+
+
+def _title_key(value):
+    return re.sub(r"[^\w]+", " ", (value or "").casefold()).strip()
 
 
 def _color_fest_number(title, release_date):
@@ -253,6 +258,19 @@ def fetch_publisher(pub):
             continue
 
         joined = " ".join(classes)
+        title_key = _title_key(titolo)
+        is_color_fest = (
+            bool(re.search(r"color\s*fest|colorfest", titolo, re.IGNORECASE))
+            or any("color-fest" in c or "colorfest" in c for c in classes)
+            or (data in COLOR_FEST_TITLES_BY_DATE and
+                title_key == _title_key(COLOR_FEST_TITLES_BY_DATE[data]))
+        )
+        is_oldboy_second = (
+            "oldboy-seconda-serie" in joined
+            or "oldboy second" in title_key
+            or (data in OLDBOY_NEW_SERIE_BY_DATE and
+                title_key == _title_key(OLDBOY_NEW_SERIE_BY_DATE[data][1]))
+        )
         merchandising = "product_cat-merchandising" in classes or bool(re.search(
             r"t[ -]?shirt|magliett|cappellin|tazza|portachiav|plaid|puzzle|medaglia",
             titolo,
@@ -273,7 +291,7 @@ def fetch_publisher(pub):
         is_release = in_window and (serie == "Dylan Dog" or not pub.get("require_collana") or any(
             c.startswith("pa_collana-") for c in classes
         ))
-        if pub["editore"] == "Bonelli" and (data in COLOR_FEST_NUMBERS_BY_DATE or data in OLDBOY_NEW_SERIE_BY_DATE):
+        if pub["editore"] == "Bonelli" and (is_color_fest or is_oldboy_second):
             serie = "Dylan Dog"
         if not serie and not is_release:
             continue
@@ -282,9 +300,9 @@ def fetch_publisher(pub):
             titolo_low = titolo.casefold()
             if "cofanetto" in titolo_low or "box" in titolo_low:
                 collana = "Cofanetti"
-            elif data in COLOR_FEST_NUMBERS_BY_DATE or "color fest" in titolo_low or "colorfest" in titolo_low:
+            elif is_color_fest:
                 collana = "Color Fest"
-            elif data in OLDBOY_NEW_SERIE_BY_DATE or "oldboy-seconda-serie" in joined:
+            elif is_oldboy_second:
                 collana = "Oldboy seconda serie"
             elif "oldboy" in titolo_low or "old boy" in titolo_low:
                 collana = "Oldboy"
@@ -306,7 +324,9 @@ def fetch_publisher(pub):
             collana = "Toni Bellasalma"
 
         rows.append({"id": p.get("id"), "data": data, "serie": serie, "collana": collana,
-                     "numero": (COLOR_FEST_NUMBERS_BY_DATE.get(data) or (OLDBOY_NEW_SERIE_BY_DATE.get(data) or (None,))[0]),
+                     "numero": (COLOR_FEST_NUMBERS_BY_DATE.get(data) if collana == "Color Fest"
+                                else (OLDBOY_NEW_SERIE_BY_DATE.get(data) or (None,))[0]
+                                if collana == "Oldboy seconda serie" else None),
                      "uscita": is_release, "titolo": titolo,
                      "link": p.get("link", ""), "fm": p.get("featured_media")})
         media_ids.append(p.get("featured_media"))
