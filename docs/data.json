@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-01T12:13:50.328892+00:00",
-  "conteggio": 73,
+  "aggiornato": "2026-11-01T12:23:48.419382+00:00",
+  "conteggio": 83,
   "elementi": [
     {
       "tipo": "uscita",
@@ -151,6 +151,18 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/07_Tex-793_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/giorni-di-fuoco/",
       "fonte": "Bonelli"
+    },
+    {
+      "id": "dylan-dog-color-fest-59",
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Color Fest",
+      "titolo": "Dylan Dog Color Fest 59 – Dedicato a Ambrosini",
+      "data": "2026-11-07",
+      "cover": "https://mycomics.it/wp-content/uploads/sites/16/2026/09/Dylan-Dog-Color-Fest-59-Dedicato-a-Ambrosini.jpg",
+      "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
+      "fonte": "MyComics preordini"
     },
     {
       "tipo": "uscita",
@@ -731,75 +743,99 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Cofanetto-Tex_2025.png",
       "link": "https://www.sergiobonelli.it/prodotto/un-anno-con-tex-2025/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Memory Lane",
+      "data": "2026-10-15",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/12_Dylan-Dog-Oldboy-SS-10_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/memory-lane/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Prima che sia l’alba",
+      "data": "2026-09-26",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/22_Dylan-Dog-481_cover01.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/prima-che-sia-lalba/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog Sticker Collection – Starter Pack",
+      "data": "2026-09-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Starter-Pack_Panini-Sticker_DD40_album.png",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-starter-pack/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog Sticker Collection – Ecoblister",
+      "data": "2026-09-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Ecoblister_Panini-Sticker_DD40_album.png",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-ecoblister/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog Sticker Collection – Box da 50 bustine",
+      "data": "2026-09-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Box50_Panini-Sticker_DD40_scatola.png",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-box-da-50-bustine/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Anatomia di un incubo",
+      "data": "2026-09-23",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/19_Speciale-Dylan-Dog-41_cover-1.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/anatomia-di-un-incubo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Prima che sia l’alba",
+      "data": "2026-09-22",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/dd_primaalba_0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-prima-che-sia-lalba/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Medaglie Dylan Dog 40 – Cofanetto",
+      "data": "2026-09-21",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_cofanetto.png",
+      "link": "https://www.sergiobonelli.it/prodotto/medaglie-dylan-dog-40-cofanetto/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Angoscia",
+      "data": "2026-09-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/07/dd_angoscia0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-angoscia/",
+      "fonte": "Bonelli"
     }
   ],
   "collezione": [
-    {
-      "id": "213904",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog 40",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TShirt_DylanDog-40_2026-1.png",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-40/"
-    },
-    {
-      "id": "214371",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Puzzle Dylan Dog – Ultima fermata l’incubo",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Puzzle2026_DD.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/puzzle-dylan-dog-ultima-fermata-lincubo/"
-    },
-    {
-      "id": "213896",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Tazza Dylan Dog. Ritratto",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Dylan-Dog-Mug-2026_01.png",
-      "link": "https://www.sergiobonelli.it/prodotto/tazza-dylan-dog-ritratto/"
-    },
-    {
-      "id": "213887",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Portachiavi Dylan Dog Metallo",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Portachiavi_DylanDog.png",
-      "link": "https://www.sergiobonelli.it/prodotto/portachiavi-dylan-dog-metallo/"
-    },
-    {
-      "id": "213825",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Cappellino Dylan Dog – Nero",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/BaseballCap_DylanDog_Nero_fronte.png",
-      "link": "https://www.sergiobonelli.it/prodotto/cappellino-dylan-dog-nero/"
-    },
-    {
-      "id": "213784",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Plaid Dylan Dog",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Plaid-Pile_DylanDog.png",
-      "link": "https://www.sergiobonelli.it/prodotto/plaid-dylan-dog/"
-    },
     {
       "id": "213486",
       "tipo": "collezione",
@@ -931,39 +967,6 @@
       "data": "2026-09-21",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_cofanetto.png",
       "link": "https://www.sergiobonelli.it/prodotto/medaglie-dylan-dog-40-cofanetto/"
-    },
-    {
-      "id": "202227",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Medaglia Dylan Dog 40 – Metallo",
-      "data": "2026-09-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_Ferro-argentato.png",
-      "link": "https://www.sergiobonelli.it/prodotto/medaglia-dylan-dog-40-metallo/"
-    },
-    {
-      "id": "202225",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Medaglia Dylan Dog 40 – Argento",
-      "data": "2026-09-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_Silver.png",
-      "link": "https://www.sergiobonelli.it/prodotto/medaglia-dylan-dog-40-argento/"
-    },
-    {
-      "id": "202224",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Medaglia Dylan Dog 40 – Oro",
-      "data": "2026-09-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_Oro.png",
-      "link": "https://www.sergiobonelli.it/prodotto/medaglia-dylan-dog-40-oro/"
     },
     {
       "id": "200513",
@@ -1327,61 +1330,6 @@
       "data": "2025-11-14",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1761581022673.png",
       "link": "https://www.sergiobonelli.it/prodotto/nella-mente-dello-scrittore/"
-    },
-    {
-      "id": "160013",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog Golconda – Rosso",
-      "data": "2025-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1760619413613.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-golconda-rosso/"
-    },
-    {
-      "id": "160020",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog Nuovo frontespizio – Celeste",
-      "data": "2025-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1760619331960.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-nuovo-frontespizio-celeste/"
-    },
-    {
-      "id": "160027",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog Nuovo frontespizio – Grigio",
-      "data": "2025-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1760618979213.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-nuovo-frontespizio-grigio/"
-    },
-    {
-      "id": "160034",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog Golconda – Bianco",
-      "data": "2025-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1760607826939.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-golconda-bianco/"
-    },
-    {
-      "id": "160056",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Tazza Dylan Dog, Diario",
-      "data": "2025-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/1760952677169.png",
-      "link": "https://www.sergiobonelli.it/prodotto/tazza-dylan-dog-diario-22/"
     },
     {
       "id": "160075",
@@ -2229,28 +2177,6 @@
       "data": "2024-07-19",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1717495400953.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-ossessioni/"
-    },
-    {
-      "id": "23233",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Il puzzle Clementoni di Dylan Dog e Groucho",
-      "data": "2024-06-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1717485180916.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-puzzle-clementoni-di-dylan-dog-e-groucho/"
-    },
-    {
-      "id": "23232",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Il puzzle Clementoni con i mostri di Dylan Dog",
-      "data": "2024-06-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1717485310320.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-puzzle-clementoni-con-i-mostri-di-dylan-dog/"
     },
     {
       "id": "23146",
@@ -3342,28 +3268,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/stati-di-paura/"
     },
     {
-      "id": "20514",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – La morte non basta",
-      "data": "2021-11-10",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1636448707148.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-la-morte-non-basta/"
-    },
-    {
-      "id": "20558",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Mi chiamo Dylan Dog",
-      "data": "2021-11-10",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1636537074573.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-mi-chiamo-dylan-dog/"
-    },
-    {
       "id": "20486",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -3406,17 +3310,6 @@
       "data": "2021-10-29",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1632839223170-1.png",
       "link": "https://www.sergiobonelli.it/prodotto/il-momento-blu/"
-    },
-    {
-      "id": "20470",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Il puzzle degli avversari di Dylan Dog",
-      "data": "2021-10-22",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1634830441096.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-puzzle-degli-avversari-di-dylan-dog/"
     },
     {
       "id": "20371",
@@ -4233,17 +4126,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/saluti-da-undead/"
     },
     {
-      "id": "18246",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Il puzzle di Dylan Dog",
-      "data": "2019-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1572430640227.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-puzzle-di-dylan-dog/"
-    },
-    {
       "id": "18266",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -4904,72 +4786,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-martin-mystere-variant/"
     },
     {
-      "id": "15992",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Frontespizio",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540899189351.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-frontespizio/"
-    },
-    {
-      "id": "15986",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Donna Dylan Dog – Il lungo addio",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540899330280.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-donna-dylan-dog-il-lungo-addio/"
-    },
-    {
-      "id": "15998",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Galeone",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540899112190.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-galeone/"
-    },
-    {
-      "id": "16009",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Horror Club",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540898196114.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-horror-club/"
-    },
-    {
-      "id": "16004",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Donna Dylan Dog – Blu",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540898910028.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-donna-dylan-dog-blu/"
-    },
-    {
-      "id": "16015",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Donna Dylan Dog – Rossa",
-      "data": "2018-10-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1540897915689.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-donna-dylan-dog-rossa/"
-    },
-    {
       "id": "15701",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -5122,28 +4938,6 @@
       "data": "2018-08-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1531902363359.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-e-dampyr/"
-    },
-    {
-      "id": "15582",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Donna Dylan Dog – Grigia",
-      "data": "2018-07-10",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1531141433980.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-donna-dylan-dog-grigia/"
-    },
-    {
-      "id": "15577",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Donna Dylan Dog – Bianca",
-      "data": "2018-07-10",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1531139848924.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-donna-dylan-dog-bianca/"
     },
     {
       "id": "15326",
@@ -5597,39 +5391,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/art-portfolio-claudio-villa/"
     },
     {
-      "id": "14683",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Grigia",
-      "data": "2017-11-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1509356487007.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-grigia/"
-    },
-    {
-      "id": "14689",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Logo",
-      "data": "2017-11-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1509355893553.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-logo/"
-    },
-    {
-      "id": "14671",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "T-shirt Dylan Dog – Bianca",
-      "data": "2017-11-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1509356276465.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/t-shirt-dylan-dog-bianca/"
-    },
-    {
       "id": "14735",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -5663,17 +5424,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/poster-dylan-dog-old-boy/"
     },
     {
-      "id": "14719",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Portachiavi Dylan Dog",
-      "data": "2017-11-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1509354041427.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/portachiavi-dylan-dog/"
-    },
-    {
       "id": "14614",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -5683,17 +5433,6 @@
       "data": "2017-11-01",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1508515108838.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/noi-zagor/"
-    },
-    {
-      "id": "14668",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "Tazza Dylan Dog Volto",
-      "data": "2017-11-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1509358012286.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/mug-dylan-dog-volto/"
     },
     {
       "id": "14641",
@@ -9656,17 +9395,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/super-book-n-53/"
     },
     {
-      "id": "5857",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "La terza faccia della medaglia",
-      "data": "2011-04-12",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/b7d6af2eca5f62830636d0b4208c5c33.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-terza-faccia-della-medaglia-3/"
-    },
-    {
       "id": "8255",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -12439,17 +12167,6 @@
       "link": "https://www.sergiobonelli.it/prodotto/vittime-designate/"
     },
     {
-      "id": "6088",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "La terza faccia della medaglia",
-      "data": "2006-04-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1eb9861ac1ee7b4750a2f6f2bc0e3984.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-terza-faccia-della-medaglia-4/"
-    },
-    {
       "id": "5593",
       "tipo": "collezione",
       "editore": "Bonelli",
@@ -13581,17 +13298,6 @@
       "data": "2004-06-24",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/d2c004af12c5a956860af12ffeb18a9b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-sonno-della-ragione-4/"
-    },
-    {
-      "id": "5571",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "La terza faccia della medaglia",
-      "data": "2004-06-17",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/95c52afc0e669c71e92bd76746d6f695.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-terza-faccia-della-medaglia-2/"
     },
     {
       "id": "5775",
@@ -15352,17 +15058,6 @@
       "data": "2001-08-07",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/8026cc2936cde6c74264de19abd65d62.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/maelstrom-3/"
-    },
-    {
-      "id": "5251",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "titolo": "La terza faccia della medaglia",
-      "data": "2001-07-26",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/b30ecb37dd700b28e6a1ce22de464eb4.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-terza-faccia-della-medaglia/"
     },
     {
       "id": "6031",
@@ -19169,6 +18864,18 @@
       "data": "2025-11-28",
       "cover": "https://www.bugscomics.com/wp-content/uploads/2025/10/T-BELLASALMA-001-SFIDA-CON-LA-MORTE-Cover.jpg",
       "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-1-sfida-con-la-morte/"
+    },
+    {
+      "id": "dylan-dog-color-fest-59",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Color Fest",
+      "titolo": "Dylan Dog Color Fest 59 – Dedicato a Ambrosini",
+      "data": "2026-11-07",
+      "cover": "https://mycomics.it/wp-content/uploads/sites/16/2026/09/Dylan-Dog-Color-Fest-59-Dedicato-a-Ambrosini.jpg",
+      "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
+      "fonte": "MyComics preordini"
     }
   ]
 }
