@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-02T04:40:09.455477+00:00",
-  "conteggio": 84,
+  "aggiornato": "2026-11-02T15:05:16.879143+00:00",
+  "conteggio": 85,
   "elementi": [
     {
       "tipo": "uscita",
@@ -274,6 +274,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/dd_albamorti_scene0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-variant/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "",
+      "titolo": "Bonelli: i fumetti in uscita questa settimana (2 – 8 novembre 2026)",
+      "data": "2026-11-02",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/10/dylan-dog-l-alba-dei-morti-viventi-0.webp",
+      "link": "https://fumettologica.it/2026/11/bonelli-fumetti-settimana-2-11-2026/",
+      "fonte": "Fumettologica"
     },
     {
       "tipo": "news",
