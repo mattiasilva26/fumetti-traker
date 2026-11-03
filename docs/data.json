@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-03T00:48:35.645523+00:00",
+  "aggiornato": "2026-11-03T13:58:44.370145+00:00",
   "conteggio": 85,
   "elementi": [
     {
@@ -126,6 +126,16 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "Il sorriso del diavolo",
+      "data": "2026-11-12",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/10_I-Mondi-di-Zagor-03_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-sorriso-del-diavolo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
       "titolo": "L’invasione silenziosa",
       "data": "2026-11-11",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/09_Martin-Mystere-441_cover.jpg",
@@ -164,6 +174,26 @@
       "cover": "https://mycomics.it/wp-content/uploads/sites/16/2026/09/Dylan-Dog-Color-Fest-59-Dedicato-a-Ambrosini.jpg",
       "link": "https://www.sergiobonelli.it/collana/dylan-dog-color-fest/",
       "fonte": "MyComics preordini"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dedicato a Ambrosini",
+      "data": "2026-11-06",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/06_Dylan-Dog-Color-Fest-59_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dedicato-a-ambrosini/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "La fine di un tiranno",
+      "data": "2026-11-06",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/05_Supertex-61_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/la-fine-di-un-tiranno-3/",
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
@@ -297,16 +327,6 @@
     },
     {
       "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "",
-      "titolo": "Bonelli: i fumetti in uscita questa settimana (2 – 8 novembre 2026)",
-      "data": "2026-11-02",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/10/dylan-dog-l-alba-dei-morti-viventi-0.webp",
-      "link": "https://fumettologica.it/2026/11/bonelli-fumetti-settimana-2-11-2026/",
-      "fonte": "Fumettologica"
-    },
-    {
-      "tipo": "news",
       "editore": "Sergio Bonelli Editore",
       "serie": "Dylan Dog",
       "titolo": "L’incontro di Dylan Dog!",
@@ -403,16 +423,6 @@
       "data": "2026-10-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi_Logos_vinile.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/anche-gli-eroi-muoiono-post-mortem-lp-fumetto/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Logos – Un racconto di Kid Yugi",
-      "data": "2026-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi-Logos_cover-REGULAR.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/logos/",
       "fonte": "Bonelli"
     },
     {
@@ -739,16 +749,6 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "La Valle dell’Odio",
-      "data": "2026-10-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tex-Nuova-Ristampa-534_Cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-valle-dellodio-4/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Lo stregone dei navajos",
       "data": "2026-10-16",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/13_Tex-Classic-251_cover.jpg",
@@ -857,6 +857,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "217808",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Color Fest",
+      "numero": null,
+      "titolo": "Dedicato a Ambrosini",
+      "data": "2026-11-06",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/06_Dylan-Dog-Color-Fest-59_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dedicato-a-ambrosini/"
+    },
     {
       "id": "213486",
       "tipo": "collezione",
