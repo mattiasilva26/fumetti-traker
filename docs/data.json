@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-03T13:58:44.370145+00:00",
+  "aggiornato": "2026-11-03T23:15:44.525031+00:00",
   "conteggio": 85,
   "elementi": [
     {
@@ -16,10 +16,40 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "Tex Willer. Fantasmi di Natale",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/tw_fantasmidinatale0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-willer-fantasmi-di-natale/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Oscura signora",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/dd_oscurasignora0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oscura-signora/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
       "titolo": "Sherlock Holmes e i misteri di Londra. Il ritorno di Jack il Saltatore",
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/sherlockholmes20.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Ken Parker. Un principe per Norma",
+      "data": "2026-11-27",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/kenparker_normajean0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/ken-parker-un-principe-per-norma/",
       "fonte": "Bonelli"
     },
     {
@@ -75,11 +105,41 @@
     {
       "tipo": "uscita",
       "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il giuramento di Ian",
+      "data": "2026-11-17",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/14_I-Mondi-di-Dragonero-02_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-giuramento-di-ian/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Un piano ardito",
+      "data": "2026-11-14",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/12_Tex-Collezione-Book-20_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/un-piano-ardito-5/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Il libro dei morti",
       "data": "2026-11-14",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/13_Dylan-Dog-482-BIS_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-libro-dei-morti-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I figli del voodoo",
+      "data": "2026-11-13",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/11_Tex-Classic-253_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/i-figli-del-voodoo/",
       "fonte": "Bonelli"
     },
     {
@@ -223,26 +283,6 @@
       "data": "2026-11-06",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/barbieri_30anni0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri-variant/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Lucky Luke. I garibaldini – Artist Edition",
-      "data": "2026-11-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/LUCKY-LUKE_230x310_Deluxe.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lucky-luke-i-garibaldini-artist-edition/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Lucky Luke. I garibaldini",
-      "data": "2026-11-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/luckyluke0a.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lucky-luke-i-garibaldini/",
       "fonte": "Bonelli"
     },
     {
@@ -403,26 +443,6 @@
       "data": "2026-10-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/19_Tex-Classic-252_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/messaggeri-delle-tenebre/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Anche gli Eroi Muoiono (Post Mortem) CD + Fumetto",
-      "data": "2026-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi_Logos_CD.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/anche-gli-eroi-muoiono-post-mortem-cd-fumetto/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Anche gli Eroi Muoiono (Post Mortem) LP + Fumetto",
-      "data": "2026-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Kid-Yugi_Logos_vinile.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/anche-gli-eroi-muoiono-post-mortem-lp-fumetto/",
       "fonte": "Bonelli"
     },
     {
@@ -593,26 +613,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_04_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-freccia-della-morte/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex Gigante. La traccia di sangue",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_03_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-traccia-di-sangue/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex Gigante. L’agguato",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_02_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-lagguato/",
       "fonte": "Bonelli"
     },
     {
@@ -857,6 +857,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "217944",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Altre edizioni",
+      "numero": null,
+      "titolo": "Dylan Dog. Oscura signora",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/dd_oscurasignora0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oscura-signora/"
+    },
     {
       "id": "217808",
       "tipo": "collezione",
@@ -20248,30 +20260,6 @@
       "data": "1995-06-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/7dffa74f753cf4513b7618dd7b2f202f.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-mistero-del-tamigi-4/"
-    },
-    {
-      "id": "5463",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "numero": null,
-      "titolo": "I delitti della mantide",
-      "data": "1995-06-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/f1530b6948c322768a37e2c77bfb507b.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/i-delitti-della-mantide-2/"
-    },
-    {
-      "id": "5177",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "numero": null,
-      "titolo": "L’orrenda invasione",
-      "data": "1995-06-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/2130ae3918e62fb92a44336bc79f91eb.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lorrenda-invasione-2/"
     },
     {
       "id": "95682",
