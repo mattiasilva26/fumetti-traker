@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-02T15:05:16.879143+00:00",
+  "aggiornato": "2026-11-03T00:48:35.645523+00:00",
   "conteggio": 85,
   "elementi": [
     {
@@ -274,6 +274,26 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/dd_albamorti_scene0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-lalba-dei-morti-viventi-variant/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Allan Zero – Sticker pack II",
+      "data": "2026-11-02",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Allan-Zero-II-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/allan-zero-sticker-pack-ii/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "",
+      "titolo": "Samuel Stern 74 – Il canto di Natale",
+      "data": "2026-11-02",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2024/11/SS-IL-CANTO-DI-NATALE-covertit.jpg",
+      "link": "https://www.bugscomics.com/prodotto/samuel-stern-74-il-canto-di-natale/",
+      "fonte": "Bugs Comics"
     },
     {
       "tipo": "news",
@@ -639,7 +659,7 @@
       "tipo": "uscita",
       "editore": "Bugs Comics",
       "serie": "",
-      "titolo": "L’Insonne – I delitti di una bambina mai nata (Variant)",
+      "titolo": "L’Insonne – I delitti di una bimba mai nata (Variant)",
       "data": "2026-10-28",
       "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-I-delitti-di-una-bimba-mai-nata-Cover-variant.jpg",
       "link": "https://www.bugscomics.com/prodotto/linsonne-delitti-bambina-mai-nata-variant/",
@@ -683,26 +703,6 @@
       "data": "2026-10-28",
       "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover.jpg",
       "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "L’Insonne – Pinocchio",
-      "data": "2026-10-28",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Pinocchio-Cover.jpg",
-      "link": "https://www.bugscomics.com/prodotto/linsonne-pinocchio/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "L’Insonne – I delitti di una bambina mai nata",
-      "data": "2026-10-28",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-delitti-bimba-mai-nata.jpg",
-      "link": "https://www.bugscomics.com/prodotto/linsonne-delitti-bambina-mai-nata/",
       "fonte": "Bugs Comics"
     },
     {
@@ -20260,6 +20260,18 @@
       "data": "1995-06-01",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/2130ae3918e62fb92a44336bc79f91eb.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/lorrenda-invasione-2/"
+    },
+    {
+      "id": "95682",
+      "tipo": "collezione",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "collana": "Toni Bellasalma",
+      "numero": null,
+      "titolo": "Allan Zero – Sticker pack II",
+      "data": "2026-11-02",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Allan-Zero-II-Cover-variant.jpg",
+      "link": "https://www.bugscomics.com/prodotto/allan-zero-sticker-pack-ii/"
     },
     {
       "id": "95598",
