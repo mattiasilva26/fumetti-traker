@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-03T23:15:44.525031+00:00",
-  "conteggio": 85,
+  "aggiornato": "2026-11-04T04:52:11.648207+00:00",
+  "conteggio": 84,
   "elementi": [
     {
       "tipo": "uscita",
@@ -843,16 +843,6 @@
       "data": "2026-09-21",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_cofanetto.png",
       "link": "https://www.sergiobonelli.it/prodotto/medaglie-dylan-dog-40-cofanetto/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog. Angoscia",
-      "data": "2026-09-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/07/dd_angoscia0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-angoscia/",
       "fonte": "Bonelli"
     }
   ],
