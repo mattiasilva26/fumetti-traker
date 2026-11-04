@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-04T14:08:00.871133+00:00",
-  "conteggio": 84,
+  "aggiornato": "2026-11-04T23:31:17.429477+00:00",
+  "conteggio": 85,
   "elementi": [
     {
       "tipo": "uscita",
@@ -66,10 +66,30 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "Storia d’armi e d’imbrogli",
+      "data": "2026-11-24",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/19_Ken-Parker-20_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/storia-darmi-e-dimbrogli/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
       "titolo": "Vasco Rossi. Sulle ali del successo",
       "data": "2026-11-24",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vasco2_0-scaled.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/vasco-rossi-sulle-ali-del-successo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Agguato sul Colle dei Gufi",
+      "data": "2026-11-22",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/18_Zagor-23_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/agguato-sul-colle-dei-gufi/",
       "fonte": "Bonelli"
     },
     {
@@ -387,23 +407,23 @@
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "L’incontro di Dylan Dog!",
       "data": "2026-11-01",
       "cover": "https://www.youtube.com/embed/-RqFKNY7-zw",
       "link": "https://www.sergiobonelli.it/lincontro-di-dylan-dog/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "",
       "titolo": "Lucca Comics 2026: l’incontro di Tex!",
       "data": "2026-11-01",
       "cover": "https://www.youtube.com/embed/oy_5pukdEWk",
       "link": "https://www.sergiobonelli.it/lucca-comics-2026-lincontro-di-tex/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
@@ -447,13 +467,13 @@
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Lo Showcase di Dylan Dog!",
       "data": "2026-10-31",
       "cover": "https://www.youtube.com/embed/y0ThPzW9jVg",
       "link": "https://www.sergiobonelli.it/lo-showcase-di-dylan-dog/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
@@ -467,33 +487,33 @@
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog Horror Show, nuove date!",
       "data": "2026-10-30",
       "cover": "",
       "link": "https://www.sergiobonelli.it/dylan-dog-horror-show-nuove-date/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "",
       "titolo": "L’incontro di Dragonero",
       "data": "2026-10-29",
       "cover": "https://www.youtube.com/embed/8x96m54S-F4",
       "link": "https://www.sergiobonelli.it/lincontro-di-dragonero/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog 40 anni di Paura 7",
       "data": "2026-10-29",
       "cover": "",
       "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-7/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
@@ -607,16 +627,6 @@
     },
     {
       "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex Gigante. La tragica notte",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_01_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-tragica-notte/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
       "editore": "Bugs Comics",
       "serie": "Toni Bellasalma",
       "titolo": "Bellasalma – Teoria delle cover stocastiche",
@@ -717,23 +727,23 @@
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "",
       "titolo": "Le Strisce di Zagor 88",
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_31.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-88/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
+      "editore": "Bonelli",
       "serie": "",
       "titolo": "Vasco Rossi: sulle ali del successo!",
       "data": "2026-10-28",
       "cover": "",
       "link": "https://www.sergiobonelli.it/vasco-rossi-sulle-ali-del-successo/",
-      "fonte": "Sergio Bonelli Editore"
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
