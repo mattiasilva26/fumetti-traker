@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-04T04:52:11.648207+00:00",
+  "aggiornato": "2026-11-04T14:08:00.871133+00:00",
   "conteggio": 84,
   "elementi": [
     {
@@ -76,6 +76,16 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
+      "titolo": "La grande rapina",
+      "data": "2026-11-20",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/17_Supertex-Speciale-06_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/la-grande-rapina-5/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
       "titolo": "I grandi misteri di Martin Mystère",
       "data": "2026-11-20",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/mm_grandimisteri0.jpg",
@@ -90,6 +100,16 @@
       "data": "2026-11-20",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/storiadinessuno0-1.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Congiura a New Orleans",
+      "data": "2026-11-19",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/16_Tex-Willer-97_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/congiura-a-new-orleans/",
       "fonte": "Bonelli"
     },
     {
@@ -593,26 +613,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_01_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-tragica-notte/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex Gigante. La spia",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_05_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-spia/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex Gigante. La freccia della morte",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/TexGig1-29_04_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-gigante-la-freccia-della-morte/",
       "fonte": "Bonelli"
     },
     {
