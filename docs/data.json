@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-05T05:06:48.023753+00:00",
+  "aggiornato": "2026-11-05T14:19:01.878743+00:00",
   "conteggio": 85,
   "elementi": [
     {
@@ -87,7 +87,7 @@
       "editore": "Bonelli",
       "serie": "",
       "titolo": "Agguato sul Colle dei Gufi",
-      "data": "2026-11-22",
+      "data": "2026-11-21",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/18_Zagor-23_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/agguato-sul-colle-dei-gufi/",
       "fonte": "Bonelli"
@@ -404,6 +404,16 @@
       "cover": "https://www.bugscomics.com/wp-content/uploads/2024/11/SS-IL-CANTO-DI-NATALE-covertit.jpg",
       "link": "https://www.bugscomics.com/prodotto/samuel-stern-74-il-canto-di-natale/",
       "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "news",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le Strisce di Tex 265",
+      "data": "2026-11-02",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-265_serieXXXI_comanches_22_cover.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-265/",
+      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
@@ -733,16 +743,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_31.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-88/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Vasco Rossi: sulle ali del successo!",
-      "data": "2026-10-28",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/vasco-rossi-sulle-ali-del-successo/",
       "fonte": "Bonelli"
     },
     {
