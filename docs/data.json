@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-05T14:19:01.878743+00:00",
-  "conteggio": 85,
+  "aggiornato": "2026-11-05T23:35:14.236637+00:00",
+  "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
@@ -60,6 +60,16 @@
       "data": "2026-11-27",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/mn_infernoverde0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/mister-no-inferno-verde/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog presenta l’Enciclopedia della Paura 2026",
+      "data": "2026-11-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/20_Enciclopedia-della-Paura-2026_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lenciclopedia-della-paura-2026/",
       "fonte": "Bonelli"
     },
     {
@@ -336,6 +346,16 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog 40 Anni di Paura 8",
+      "data": "2026-11-05",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-8/",
+      "fonte": "Bonelli"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -343,6 +363,16 @@
       "data": "2026-11-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Dampyr-320_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/nella-notte-di-praga/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Le Strisce di Zagor 89",
+      "data": "2026-11-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_33.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-89/",
       "fonte": "Bonelli"
     },
     {
@@ -736,16 +766,6 @@
       "fonte": "Bugs Comics"
     },
     {
-      "tipo": "news",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Le Strisce di Zagor 88",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Le-Strisce-di-Zagor_Lampo04_31.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-88/",
-      "fonte": "Bonelli"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -763,16 +783,6 @@
       "data": "2026-10-16",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/13_Tex-Classic-251_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/lo-stregone-dei-navajos/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Un anno con Tex (2025)",
-      "data": "2026-10-16",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Cofanetto-Tex_2025.png",
-      "link": "https://www.sergiobonelli.it/prodotto/un-anno-con-tex-2025/",
       "fonte": "Bonelli"
     },
     {
@@ -857,6 +867,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "218588",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Almanacco / Enciclopedia",
+      "numero": null,
+      "titolo": "Dylan Dog presenta l’Enciclopedia della Paura 2026",
+      "data": "2026-11-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/20_Enciclopedia-della-Paura-2026_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lenciclopedia-della-paura-2026/"
+    },
     {
       "id": "217944",
       "tipo": "collezione",
