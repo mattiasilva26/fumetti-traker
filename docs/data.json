@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-06T14:03:39.206865+00:00",
-  "conteggio": 86,
+  "aggiornato": "2026-11-06T23:00:46.225632+00:00",
+  "conteggio": 87,
   "elementi": [
     {
       "tipo": "uscita",
@@ -344,6 +344,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/barbieri_30anni0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri-variant/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "Dylan Dog",
+      "titolo": "Lo speciale di Dylan Dog con l’ultima storia scritta da Carlo Ambrosini",
+      "data": "2026-11-06",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/dylan-dog-color-fest-59-ambrosini-05-670x884.webp",
+      "link": "https://fumettologica.it/2026/11/dylan-dog-ultima-storia-carlo-ambrosini/",
+      "fonte": "Fumettologica"
     },
     {
       "tipo": "news",
