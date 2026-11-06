@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-06T05:05:57.149251+00:00",
+  "aggiornato": "2026-11-06T14:03:39.206865+00:00",
   "conteggio": 86,
   "elementi": [
     {
@@ -40,6 +40,16 @@
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/sherlockholmes20.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Cose preziose",
+      "data": "2026-11-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/23_Dylan-Dog-483_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/cose-preziose/",
       "fonte": "Bonelli"
     },
     {
@@ -336,6 +346,16 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I Conigli Rosa Uccidono, presentato da Mignacco e Crovi.",
+      "data": "2026-11-06",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/i-conigli-rosa-uccidono-presentato-da-mignacco-e-crovi/",
+      "fonte": "Bonelli"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -533,26 +553,6 @@
       "data": "2026-10-30",
       "cover": "",
       "link": "https://www.sergiobonelli.it/dylan-dog-horror-show-nuove-date/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "L’incontro di Dragonero",
-      "data": "2026-10-29",
-      "cover": "https://www.youtube.com/embed/8x96m54S-F4",
-      "link": "https://www.sergiobonelli.it/lincontro-di-dragonero/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog 40 anni di Paura 7",
-      "data": "2026-10-29",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-7/",
       "fonte": "Bonelli"
     },
     {
@@ -867,6 +867,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "218758",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Altre edizioni",
+      "numero": null,
+      "titolo": "Cose preziose",
+      "data": "2026-11-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/23_Dylan-Dog-483_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/cose-preziose/"
+    },
     {
       "id": "218588",
       "tipo": "collezione",
