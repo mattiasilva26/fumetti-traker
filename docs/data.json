@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-08T04:40:45.764104+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-08T13:03:21.037352+00:00",
+  "conteggio": 88,
   "elementi": [
     {
       "tipo": "uscita",
@@ -271,6 +271,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/08_Dragonero-162_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cresciuta-negli-inferi/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "",
+      "titolo": "Bonelli: i fumetti in uscita questa settimana (9-15 novembre 2026)",
+      "data": "2026-11-08",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/cresciuta-negli-inferi.webp",
+      "link": "https://fumettologica.it/2026/11/bonelli-fumetti-settimana-9-11-2026/",
+      "fonte": "Fumettologica"
     },
     {
       "tipo": "uscita",
