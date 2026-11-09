@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-09T04:55:02.897536+00:00",
+  "aggiornato": "2026-11-09T15:21:26.041373+00:00",
   "conteggio": 88,
   "elementi": [
     {
@@ -45,6 +45,16 @@
     {
       "tipo": "uscita",
       "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I rangers di Lost Valley",
+      "data": "2026-11-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tutto-Tex-668_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/i-rangers-di-lost-valley-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Cose preziose",
       "data": "2026-11-28",
@@ -75,6 +85,16 @@
     {
       "tipo": "uscita",
       "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Sotto copertura",
+      "data": "2026-11-26",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/21_Tex-Color-30_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/sotto-copertura-2/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog presenta l’Enciclopedia della Paura 2026",
       "data": "2026-11-25",
@@ -100,6 +120,16 @@
       "data": "2026-11-24",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vasco2_0-scaled.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/vasco-rossi-sulle-ali-del-successo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Colpo su Colpo",
+      "data": "2026-11-21",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Nuova-Ristampa-535_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/colpo-su-colpo-7/",
       "fonte": "Bonelli"
     },
     {
@@ -274,6 +304,16 @@
     },
     {
       "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Le Strisce di Tex 266",
+      "data": "2026-11-09",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-266_serieXXXI_comanches_25_cover.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-266/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
       "editore": "Fumettologica",
       "serie": "",
       "titolo": "Bonelli: i fumetti in uscita questa settimana (9-15 novembre 2026)",
@@ -367,13 +407,13 @@
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "I Conigli Rosa Uccidono, presentato da Mignacco e Crovi.",
       "data": "2026-11-06",
       "cover": "",
       "link": "https://www.sergiobonelli.it/i-conigli-rosa-uccidono-presentato-da-mignacco-e-crovi/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -387,13 +427,13 @@
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog 40 Anni di Paura 8",
       "data": "2026-11-05",
       "cover": "",
       "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-8/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -407,13 +447,13 @@
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Le Strisce di Zagor 89",
       "data": "2026-11-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_33.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-89/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -477,33 +517,33 @@
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Le Strisce di Tex 265",
       "data": "2026-11-02",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-265_serieXXXI_comanches_22_cover.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-tex-265/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "Dylan Dog",
       "titolo": "L’incontro di Dylan Dog!",
       "data": "2026-11-01",
       "cover": "https://www.youtube.com/embed/-RqFKNY7-zw",
       "link": "https://www.sergiobonelli.it/lincontro-di-dylan-dog/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Lucca Comics 2026: l’incontro di Tex!",
       "data": "2026-11-01",
       "cover": "https://www.youtube.com/embed/oy_5pukdEWk",
       "link": "https://www.sergiobonelli.it/lucca-comics-2026-lincontro-di-tex/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -547,33 +587,13 @@
     },
     {
       "tipo": "news",
-      "editore": "Bonelli",
+      "editore": "Sergio Bonelli Editore",
       "serie": "Dylan Dog",
       "titolo": "Lo Showcase di Dylan Dog!",
       "data": "2026-10-31",
       "cover": "https://www.youtube.com/embed/y0ThPzW9jVg",
       "link": "https://www.sergiobonelli.it/lo-showcase-di-dylan-dog/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Messaggeri delle tenebre",
-      "data": "2026-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/19_Tex-Classic-252_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/messaggeri-delle-tenebre/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog Horror Show, nuove date!",
-      "data": "2026-10-30",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-horror-show-nuove-date/",
-      "fonte": "Bonelli"
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -784,26 +804,6 @@
       "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover.jpg",
       "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii/",
       "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Pagati per uccidere",
-      "data": "2026-10-22",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/16_Maxi-Tex-39_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/pagati-per-uccidere/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Lo stregone dei navajos",
-      "data": "2026-10-16",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/13_Tex-Classic-251_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lo-stregone-dei-navajos/",
-      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
