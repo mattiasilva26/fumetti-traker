@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-10T01:22:42.504603+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-10T14:24:13.258188+00:00",
+  "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
@@ -304,6 +304,16 @@
     },
     {
       "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "Dylan Dog",
+      "titolo": "Il Dylan Dog Horror Show mi ha fatto tornare ragazzino",
+      "data": "2026-11-10",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/dylan-dog-horror-show-08-670x377.webp",
+      "link": "https://fumettologica.it/2026/11/dylan-dog-horror-show-recensione/",
+      "fonte": "Fumettologica"
+    },
+    {
+      "tipo": "news",
       "editore": "Sergio Bonelli Editore",
       "serie": "",
       "titolo": "Le Strisce di Tex 266",
@@ -311,16 +321,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-266_serieXXXI_comanches_25_cover.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-tex-266/",
       "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "",
-      "titolo": "Bonelli: i fumetti in uscita questa settimana (9-15 novembre 2026)",
-      "data": "2026-11-08",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/cresciuta-negli-inferi.webp",
-      "link": "https://fumettologica.it/2026/11/bonelli-fumetti-settimana-9-11-2026/",
-      "fonte": "Fumettologica"
     },
     {
       "tipo": "uscita",
@@ -394,16 +394,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/barbieri_30anni0b.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri-variant/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "Dylan Dog",
-      "titolo": "Lo speciale di Dylan Dog con l’ultima storia scritta da Carlo Ambrosini",
-      "data": "2026-11-06",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/dylan-dog-color-fest-59-ambrosini-05-670x884.webp",
-      "link": "https://fumettologica.it/2026/11/dylan-dog-ultima-storia-carlo-ambrosini/",
-      "fonte": "Fumettologica"
     },
     {
       "tipo": "news",
