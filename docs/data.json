@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-10T14:24:13.258188+00:00",
+  "aggiornato": "2026-11-10T23:02:08.633282+00:00",
   "conteggio": 86,
   "elementi": [
     {
@@ -40,6 +40,36 @@
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/sherlockholmes20.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il mistero di Manito",
+      "data": "2026-12-02",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Zagor-737-788_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-mistero-di-manito/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "L’urlo del cielo",
+      "data": "2026-12-02",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/02_Julia-339_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lurlo-del-cielo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Odissea nel Tempo",
+      "data": "2026-12-01",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/01_Speciale-Zagor-NN-MM_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/odissea-nel-tempo/",
       "fonte": "Bonelli"
     },
     {
@@ -250,26 +280,6 @@
       "data": "2026-11-13",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/montagna0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/montagna/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex. La cavalcata del morto – Edizione limitata numerata",
-      "data": "2026-11-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tex-Cavalcata-del-Morto-Deluxe_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-la-cavalcata-del-morto-edizione-limitata-numerata/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Tex. La cavalcata del morto",
-      "data": "2026-11-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/cavalcatadelmorto0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-la-cavalcata-del-morto/",
       "fonte": "Bonelli"
     },
     {
@@ -663,16 +673,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/DGN_162_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dragonero-162-variant-ian/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Lunga Lancia",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Tutto-Tex-667_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lunga-lancia-2/",
       "fonte": "Bonelli"
     },
     {
@@ -20282,18 +20282,6 @@
       "data": "1995-07-01",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/11eafca0cfd8d650c6279a171017577f.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/la-rivolta-delle-macchine/"
-    },
-    {
-      "id": "5958",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "numero": null,
-      "titolo": "Il mistero del Tamigi",
-      "data": "1995-06-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/7dffa74f753cf4513b7618dd7b2f202f.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-mistero-del-tamigi-4/"
     },
     {
       "id": "95682",
