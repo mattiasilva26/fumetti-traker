@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-11T04:44:34.863396+00:00",
+  "aggiornato": "2026-11-11T13:44:55.529422+00:00",
   "conteggio": 86,
   "elementi": [
     {
@@ -10,6 +10,26 @@
       "data": "2027-01-15",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/nn_piratideicieli0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/nathan-never-i-pirati-dei-cieli/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Little Bighorn",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/05_Il-West-di-Serpieri-02_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/little-bighorn-5/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "L’oro degli Snake",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/04_Supertex-62_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/loro-degli-snake/",
       "fonte": "Bonelli"
     },
     {
@@ -40,6 +60,16 @@
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/sherlockholmes20.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il club degli Hashishin",
+      "data": "2026-12-03",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/20_Dampyr-231_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-club-degli-hashishin/",
       "fonte": "Bonelli"
     },
     {
@@ -303,6 +333,26 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Trent’anni di Carriera di Paolo Barbieri al Bonelli Store",
+      "data": "2026-11-11",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/trentanni-di-carriera-di-paolo-barbieri-al-bonelli-store/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Le Strisce di Zagor 90",
+      "data": "2026-11-11",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_35.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-90/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -311,16 +361,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/08_Dragonero-162_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cresciuta-negli-inferi/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "Dylan Dog",
-      "titolo": "Il Dylan Dog Horror Show mi ha fatto tornare ragazzino",
-      "data": "2026-11-10",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/dylan-dog-horror-show-08-670x377.webp",
-      "link": "https://fumettologica.it/2026/11/dylan-dog-horror-show-recensione/",
-      "fonte": "Fumettologica"
     },
     {
       "tipo": "news",
@@ -383,26 +423,6 @@
       "data": "2026-11-06",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vudu0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/zagor-vudu/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Trent’anni di disegni sbagliati – L’arte di Paolo Barbieri",
-      "data": "2026-11-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/barbieri_30anni0a.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Trent’anni di disegni sbagliati. L’arte di Paolo Barbieri – Variant",
-      "data": "2026-11-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/barbieri_30anni0b.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/trentanni-di-disegni-sbagliati-larte-di-paolo-barbieri-variant/",
       "fonte": "Bonelli"
     },
     {
@@ -523,26 +543,6 @@
       "data": "2026-11-02",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-265_serieXXXI_comanches_22_cover.jpg",
       "link": "https://www.sergiobonelli.it/le-strisce-di-tex-265/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "L’incontro di Dylan Dog!",
-      "data": "2026-11-01",
-      "cover": "https://www.youtube.com/embed/-RqFKNY7-zw",
-      "link": "https://www.sergiobonelli.it/lincontro-di-dylan-dog/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Lucca Comics 2026: l’incontro di Tex!",
-      "data": "2026-11-01",
-      "cover": "https://www.youtube.com/embed/oy_5pukdEWk",
-      "link": "https://www.sergiobonelli.it/lucca-comics-2026-lincontro-di-tex/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
