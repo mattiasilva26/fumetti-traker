@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-12T00:14:45.175501+00:00",
+  "aggiornato": "2026-11-12T14:49:00.147469+00:00",
   "conteggio": 86,
   "elementi": [
     {
@@ -10,6 +10,16 @@
       "data": "2027-01-15",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/nn_piratideicieli0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/nathan-never-i-pirati-dei-cieli/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Racconti oscuri",
+      "data": "2026-12-09",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/08_Dragonero-163_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/racconti-oscuri/",
       "fonte": "Bonelli"
     },
     {
@@ -40,6 +50,16 @@
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/tw_fantasmidinatale0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/tex-willer-fantasmi-di-natale/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Ken Parker. Un principe per Norma",
+      "data": "2026-12-04",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/kenparker_normajean0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/ken-parker-un-principe-per-norma/",
       "fonte": "Bonelli"
     },
     {
@@ -120,16 +140,6 @@
       "data": "2026-11-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/23_Dylan-Dog-483_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cose-preziose/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Ken Parker. Un principe per Norma",
-      "data": "2026-11-27",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/kenparker_normajean0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/ken-parker-un-principe-per-norma/",
       "fonte": "Bonelli"
     },
     {
@@ -306,21 +316,31 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Montagna",
-      "data": "2026-11-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/montagna0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/montagna/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Il sorriso del diavolo",
       "data": "2026-11-12",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/10_I-Mondi-di-Zagor-03_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-sorriso-del-diavolo/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "Stefano Nazzi racconta gli incubi di Dylan Dog",
+      "data": "2026-11-12",
+      "cover": "https://www.youtube.com/embed/1-Ak__DmTAY",
+      "link": "https://www.sergiobonelli.it/stefano-nazzi-racconta-gli-incubi-di-dylan-dog/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog 40 Anni di Paura 9",
+      "data": "2026-11-12",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-9/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -416,16 +436,6 @@
       "fonte": "Bonelli"
     },
     {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Zagor. Vudu",
-      "data": "2026-11-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vudu0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/zagor-vudu/",
-      "fonte": "Bonelli"
-    },
-    {
       "tipo": "news",
       "editore": "Sergio Bonelli Editore",
       "serie": "",
@@ -464,16 +474,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Dampyr-320_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/nella-notte-di-praga/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le Strisce di Zagor 89",
-      "data": "2026-11-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_33.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-89/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -536,16 +536,6 @@
       "fonte": "Bugs Comics"
     },
     {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le Strisce di Tex 265",
-      "data": "2026-11-02",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-265_serieXXXI_comanches_22_cover.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-265/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "Dylan Dog",
@@ -584,6 +574,16 @@
       "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/T-BELLASALMA-012-IL-FIOCCO-DI-NEVE-DELLARMAGEDDON-Cov-C-copia.jpg",
       "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-12-il-fiocco-di-neve-dellarmageddon-c/",
       "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Dylan Dog. Storia di nessuno – Seconda edizione limitata numerata",
+      "data": "2026-10-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/DD-Storia-di-Nessuno-Limited-02.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno-seconda-edizione-limitata-numerata/",
+      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
@@ -867,6 +867,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "219484",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Altre edizioni",
+      "numero": null,
+      "titolo": "Dylan Dog. Storia di nessuno – Seconda edizione limitata numerata",
+      "data": "2026-10-28",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/DD-Storia-di-Nessuno-Limited-02.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno-seconda-edizione-limitata-numerata/"
+    },
     {
       "id": "218758",
       "tipo": "collezione",
