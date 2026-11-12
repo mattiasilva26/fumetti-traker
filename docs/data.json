@@ -1,15 +1,35 @@
 {
-  "aggiornato": "2026-11-12T14:49:00.147469+00:00",
+  "aggiornato": "2026-11-12T23:25:38.302504+00:00",
   "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Nathan Never. I pirati dei cieli",
-      "data": "2027-01-15",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/nn_piratideicieli0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/nathan-never-i-pirati-dei-cieli/",
+      "titolo": "La maschera della vendetta",
+      "data": "2026-12-12",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/11_I-Mondi-di-Zagor-04_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/la-maschera-della-vendetta/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex e El Morisco. Gli uomini giaguaro",
+      "data": "2026-12-11",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/tex_morisco40.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-e-el-morisco-gli-uomini-giaguaro/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Roswell, 1947",
+      "data": "2026-12-10",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/09_Martin-Mystere-442_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/roswell-1947/",
       "fonte": "Bonelli"
     },
     {
@@ -140,16 +160,6 @@
       "data": "2026-11-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/23_Dylan-Dog-483_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cose-preziose/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Mister No. Inferno verde",
-      "data": "2026-11-27",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/mn_infernoverde0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/mister-no-inferno-verde/",
       "fonte": "Bonelli"
     },
     {
@@ -300,16 +310,6 @@
       "data": "2026-11-13",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/11_Tex-Classic-253_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/i-figli-del-voodoo/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Disperanza. Falli a pezzi, ragazzo!",
-      "data": "2026-11-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/disperanza20.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/disperanza-falli-a-pezzi-ragazzo/",
       "fonte": "Bonelli"
     },
     {
@@ -20270,30 +20270,6 @@
       "data": "1995-07-30",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/f5a502ab2b08afcf420311fa3845cace.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/ai-confini-del-tempo-4/"
-    },
-    {
-      "id": "5464",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "numero": null,
-      "titolo": "L’ultimo plenilunio",
-      "data": "1995-07-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/96fe532a7a3873a1f8c296f67fdab3e8.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lultimo-plenilunio-2/"
-    },
-    {
-      "id": "5178",
-      "tipo": "collezione",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "collana": "Altre edizioni",
-      "numero": null,
-      "titolo": "La rivolta delle macchine",
-      "data": "1995-07-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/11eafca0cfd8d650c6279a171017577f.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/la-rivolta-delle-macchine/"
     },
     {
       "id": "95682",
