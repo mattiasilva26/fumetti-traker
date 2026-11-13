@@ -1,7 +1,17 @@
 {
-  "aggiornato": "2026-11-13T05:05:16.537801+00:00",
-  "conteggio": 86,
+  "aggiornato": "2026-11-13T14:07:23.760950+00:00",
+  "conteggio": 87,
   "elementi": [
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Hot L.A.",
+      "data": "2026-12-18",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/hotla0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/hot-l-a/",
+      "fonte": "Bonelli"
+    },
     {
       "tipo": "uscita",
       "editore": "Bonelli",
@@ -10,6 +20,16 @@
       "data": "2026-12-12",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/11_I-Mondi-di-Zagor-04_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/la-maschera-della-vendetta/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Zagor contro il Vampiro. Il presagio",
+      "data": "2026-12-11",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/zagorvampiro50.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/zagor-contro-il-vampiro-il-presagio/",
       "fonte": "Bonelli"
     },
     {
@@ -96,16 +116,6 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Sherlock Holmes e i misteri di Londra. Il ritorno di Jack il Saltatore",
-      "data": "2026-12-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/sherlockholmes20.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/sherlock-holmes-e-i-misteri-di-londra-il-ritorno-di-jack-il-saltatore/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Il club degli Hashishin",
       "data": "2026-12-03",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/20_Dampyr-231_cover.jpg",
@@ -160,6 +170,16 @@
       "data": "2026-11-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/23_Dylan-Dog-483_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cose-preziose/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Il villaggio dei Seminoles",
+      "data": "2026-11-27",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/22_Tex-Classic-254_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-villaggio-dei-seminoles/",
       "fonte": "Bonelli"
     },
     {
@@ -313,6 +333,26 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Un ricordo di Carlo Ambrosini al Bonelli Store",
+      "data": "2026-11-13",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/un-ricordo-di-carlo-ambrosini-al-bonelli-store/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "I segreti di Montagna!",
+      "data": "2026-11-13",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/linea-300x4.jpg",
+      "link": "https://www.sergiobonelli.it/i-segreti-di-montagna/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -456,16 +496,6 @@
       "fonte": "Bonelli"
     },
     {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog 40 Anni di Paura 8",
-      "data": "2026-11-05",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-8/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -483,16 +513,6 @@
       "data": "2026-11-03",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/01_Julia-338_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/cosi-finisce-il-mondo/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Ritorno sul Monte Naatani",
-      "data": "2026-11-03",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/02_Zagor-736-781_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/ritorno-sul-monte-naatani/",
       "fonte": "Bonelli"
     },
     {
@@ -663,16 +683,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Variant_Zagor-Lucca-2026_01.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/zagor-736-variant/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Dragonero 162 – Variant Ian",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/DGN_162_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/dragonero-162-variant-ian/",
       "fonte": "Bonelli"
     },
     {
