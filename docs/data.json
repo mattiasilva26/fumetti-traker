@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-14T04:57:58.659563+00:00",
+  "aggiornato": "2026-11-14T13:09:54.200076+00:00",
   "conteggio": 87,
   "elementi": [
     {
@@ -10,6 +10,16 @@
       "data": "2026-12-18",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/hotla0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/hot-l-a/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Alba di sangue",
+      "data": "2026-12-16",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/13_Tex-Collezione-Book-21_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/alba-di-sangue-5/",
       "fonte": "Bonelli"
     },
     {
@@ -381,16 +391,6 @@
       "cover": "",
       "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-9/",
       "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "L’invasione silenziosa",
-      "data": "2026-11-11",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/09_Martin-Mystere-441_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/linvasione-silenziosa-2/",
-      "fonte": "Bonelli"
     },
     {
       "tipo": "news",
