@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-16T04:47:20.514998+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-16T14:51:33.415500+00:00",
+  "conteggio": 88,
   "elementi": [
     {
       "tipo": "uscita",
@@ -20,6 +20,16 @@
       "data": "2026-12-16",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/13_Tex-Collezione-Book-21_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/alba-di-sangue-5/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "L’opposto e il suo contrario",
+      "data": "2026-12-15",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/12_Dylan-Dog-Oldboy-11_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lopposto-e-il-suo-contrario/",
       "fonte": "Bonelli"
     },
     {
@@ -313,6 +323,36 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "",
+      "titolo": "Bonelli: i fumetti in uscita questa settimana (16-22 novembre 2026)",
+      "data": "2026-11-16",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/il-giuramento-di-ian.webp",
+      "link": "https://fumettologica.it/2026/11/fumetti-bonelli-16-22-novembre-2026/",
+      "fonte": "Fumettologica"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Le Strisce di Tex 267",
+      "data": "2026-11-16",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-267_serieXXXII_osages_03_cover.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-267/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Il Color Fest dallo Scarabocchiatore",
+      "data": "2026-11-16",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/il-color-fest-dallo-scarabocchiatore/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -423,16 +463,6 @@
       "fonte": "Bonelli"
     },
     {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le Strisce di Tex 266",
-      "data": "2026-11-09",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-266_serieXXXI_comanches_25_cover.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-266/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -474,16 +504,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/05_Supertex-61_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/la-fine-di-un-tiranno-3/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "I Conigli Rosa Uccidono, presentato da Mignacco e Crovi.",
-      "data": "2026-11-06",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/i-conigli-rosa-uccidono-presentato-da-mignacco-e-crovi/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -678,16 +698,6 @@
     {
       "tipo": "uscita",
       "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Zagor 736 – Variant",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Variant_Zagor-Lucca-2026_01.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/zagor-736-variant/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
       "serie": "Dylan Dog",
       "titolo": "Dylan Dog. Storia di nessuno – Edizione limitata numerata",
       "data": "2026-10-28",
@@ -877,6 +887,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "220450",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Oldboy seconda serie",
+      "numero": null,
+      "titolo": "L’opposto e il suo contrario",
+      "data": "2026-12-15",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/12_Dylan-Dog-Oldboy-11_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lopposto-e-il-suo-contrario/"
+    },
     {
       "id": "219484",
       "tipo": "collezione",
