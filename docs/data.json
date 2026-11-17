@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-16T14:51:33.415500+00:00",
+  "aggiornato": "2026-11-17T01:46:38.268326+00:00",
   "conteggio": 88,
   "elementi": [
     {
@@ -80,6 +80,16 @@
       "data": "2026-12-09",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/08_Dragonero-163_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/racconti-oscuri/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "I Ciboleros",
+      "data": "2026-12-05",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/06_Speciale-Tex-Willer-13cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/i-ciboleros/",
       "fonte": "Bonelli"
     },
     {
@@ -683,16 +693,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/NN426_variant_01.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/nathan-never-426-variant/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Martin Mystère 441 – Variant",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/MM441_variant01.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/martin-mystere-441-variant/",
       "fonte": "Bonelli"
     },
     {
