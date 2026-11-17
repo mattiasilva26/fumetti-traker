@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-17T01:46:38.268326+00:00",
-  "conteggio": 88,
+  "aggiornato": "2026-11-17T15:42:32.411267+00:00",
+  "conteggio": 87,
   "elementi": [
     {
       "tipo": "uscita",
@@ -10,6 +10,16 @@
       "data": "2026-12-18",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/hotla0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/hot-l-a/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Fratelli d’armi",
+      "data": "2026-12-17",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/14_Speciale-Nathan-Never-37_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/fratelli-darmi/",
       "fonte": "Bonelli"
     },
     {
@@ -316,31 +326,11 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Un altro futuro",
-      "data": "2026-11-18",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/15_Nathan-Never-426_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/un-altro-futuro/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Il giuramento di Ian",
       "data": "2026-11-17",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/14_I-Mondi-di-Dragonero-02_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-giuramento-di-ian/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "",
-      "titolo": "Bonelli: i fumetti in uscita questa settimana (16-22 novembre 2026)",
-      "data": "2026-11-16",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/il-giuramento-di-ian.webp",
-      "link": "https://fumettologica.it/2026/11/fumetti-bonelli-16-22-novembre-2026/",
-      "fonte": "Fumettologica"
     },
     {
       "tipo": "news",
