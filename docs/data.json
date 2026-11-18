@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-17T15:42:32.411267+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-18T00:43:36.407156+00:00",
+  "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
@@ -440,16 +440,6 @@
       "data": "2026-11-11",
       "cover": "",
       "link": "https://www.sergiobonelli.it/trentanni-di-carriera-di-paolo-barbieri-al-bonelli-store/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "Le Strisce di Zagor 90",
-      "data": "2026-11-11",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_35.jpg",
-      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-90/",
       "fonte": "Sergio Bonelli Editore"
     },
     {
@@ -3718,7 +3708,7 @@
       "numero": null,
       "titolo": "Dylan Dog. I racconti di domani – Ammazzando il tempo",
       "data": "2021-09-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1629880480374.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-i-racconti-di-domani-ammazzando-il-tempo/"
     },
     {
@@ -3730,7 +3720,7 @@
       "numero": null,
       "titolo": "Dylan Dog Oldboy 8",
       "data": "2021-08-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1623685282371.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oldboy-8/"
     },
     {
@@ -3742,7 +3732,7 @@
       "numero": 38,
       "titolo": "Groucho Terzo",
       "data": "2021-08-06",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1626085743071.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/groucho-terzo/"
     },
     {
@@ -3754,7 +3744,7 @@
       "numero": null,
       "titolo": "Albachiara",
       "data": "2021-07-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1627378646471.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/albachiara/"
     },
     {
@@ -3766,7 +3756,7 @@
       "numero": null,
       "titolo": "Qwertyngton",
       "data": "2021-07-15",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1623766888768.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/qwertyngton/"
     },
     {
@@ -3778,7 +3768,7 @@
       "numero": null,
       "titolo": "Sally",
       "data": "2021-06-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1625048891881.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/sally/"
     },
     {
@@ -3790,7 +3780,7 @@
       "numero": null,
       "titolo": "Dylan Dog Oldboy 7",
       "data": "2021-06-15",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1618466558717.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oldboy-7/"
     },
     {
@@ -3802,7 +3792,7 @@
       "numero": null,
       "titolo": "Dylan Dog Oldboy 6",
       "data": "2021-04-15",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1613040320453.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oldboy-6/"
     },
     {
@@ -3814,7 +3804,7 @@
       "numero": null,
       "titolo": "Dylan Dog. Johnny Freak",
       "data": "2021-06-17",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1623058778431.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-johnny-freak/"
     },
     {
@@ -3826,7 +3816,7 @@
       "numero": null,
       "titolo": "L’ora del giudizio",
       "data": "2021-05-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1619160124077.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/lora-del-giudizio/"
     },
     {
@@ -3838,7 +3828,7 @@
       "numero": null,
       "titolo": "Il detenuto",
       "data": "2021-04-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1616072261003.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/il-detenuto/"
     },
     {
@@ -3850,7 +3840,7 @@
       "numero": 37,
       "titolo": "Doppio orrore",
       "data": "2021-05-08",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1617797339875.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/doppio-orrore/"
     },
     {
@@ -3862,7 +3852,7 @@
       "numero": null,
       "titolo": "Vendetta in maschera",
       "data": "2021-03-31",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1614272043163.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/vendetta-in-maschera/"
     },
     {
@@ -3874,7 +3864,7 @@
       "numero": null,
       "titolo": "Dylan Dog. I racconti di domani – Varie ed eventuali",
       "data": "2021-05-20",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1618486073529.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-i-racconti-di-domani-varie-ed-eventuali/"
     },
     {
@@ -3886,7 +3876,7 @@
       "numero": null,
       "titolo": "Dylan Dog Oldboy 5",
       "data": "2021-02-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1607687520513.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-oldboy-5/"
     },
     {
@@ -3898,7 +3888,7 @@
       "numero": null,
       "titolo": "Giochi innocenti",
       "data": "2021-02-27",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1611754685007.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/giochi-innocenti/"
     },
     {
@@ -3910,7 +3900,7 @@
       "numero": null,
       "titolo": "Dylan Dog Magazine 2021",
       "data": "2021-03-24",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1614089857650.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-magazine-2021/"
     },
     {
@@ -3922,7 +3912,7 @@
       "numero": 36,
       "titolo": "Mister Punch",
       "data": "2021-02-09",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1609837479990.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/mister-punch/"
     },
     {
@@ -3934,7 +3924,7 @@
       "numero": null,
       "titolo": "Dylan Dog. L’occhio del gatto",
       "data": "2021-04-15",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1616142182896.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-locchio-del-gatto/"
     },
     {
@@ -3946,7 +3936,7 @@
       "numero": null,
       "titolo": "I padroni del nulla",
       "data": "2021-01-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1609494765357.png",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/i-padroni-del-nulla/"
     },
     {
