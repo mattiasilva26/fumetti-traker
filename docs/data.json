@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-19T05:56:54.032565+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-19T15:27:51.654558+00:00",
+  "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
@@ -70,6 +70,16 @@
       "data": "2026-12-12",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/11_I-Mondi-di-Zagor-04_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/la-maschera-della-vendetta/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Moby Dick e altre storie",
+      "data": "2026-12-11",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/mobydick0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/moby-dick-e-altre-storie/",
       "fonte": "Bonelli"
     },
     {
@@ -364,6 +374,16 @@
     },
     {
       "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "SBE torna alla Milan Games Week & Cartoomics!",
+      "data": "2026-11-19",
+      "cover": "",
+      "link": "https://www.sergiobonelli.it/sbe-torna-alla-milan-games-week/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
+      "tipo": "news",
       "editore": "Lo Spazio Bianco",
       "serie": "",
       "titolo": "Torna in libreria “L’uomo del Nilo” di Sergio Toppi",
@@ -463,16 +483,6 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "I segreti di Montagna!",
-      "data": "2026-11-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/11/linea-300x4.jpg",
-      "link": "https://www.sergiobonelli.it/i-segreti-di-montagna/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -481,16 +491,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/10_I-Mondi-di-Zagor-03_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-sorriso-del-diavolo/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "Stefano Nazzi racconta gli incubi di Dylan Dog",
-      "data": "2026-11-12",
-      "cover": "https://www.youtube.com/embed/1-Ak__DmTAY",
-      "link": "https://www.sergiobonelli.it/stefano-nazzi-racconta-gli-incubi-di-dylan-dog/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -673,16 +673,6 @@
       "data": "2026-10-28",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Dylan-Dog-482_variant_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-482bis-variant/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Il west di Serpieri 1 – Variant",
-      "data": "2026-10-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/Il-West-di-Serpieri_Variant_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-west-di-serpieri-1-variant/",
       "fonte": "Bonelli"
     },
     {
