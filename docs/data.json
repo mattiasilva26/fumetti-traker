@@ -1,7 +1,17 @@
 {
-  "aggiornato": "2026-11-18T15:18:55.744019+00:00",
+  "aggiornato": "2026-11-19T00:05:29.608689+00:00",
   "conteggio": 87,
   "elementi": [
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Martin Mystère. Il tesoro di Federico II",
+      "data": "2026-12-18",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/mm_federico20.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/martin-mystere-il-tesoro-di-federico-ii/",
+      "fonte": "Bonelli"
+    },
     {
       "tipo": "uscita",
       "editore": "Bonelli",
@@ -481,16 +491,6 @@
       "cover": "https://www.youtube.com/embed/1-Ak__DmTAY",
       "link": "https://www.sergiobonelli.it/stefano-nazzi-racconta-gli-incubi-di-dylan-dog/",
       "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Cresciuta negli inferi",
-      "data": "2026-11-10",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/08_Dragonero-162_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/cresciuta-negli-inferi/",
-      "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
