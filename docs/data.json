@@ -1,7 +1,17 @@
 {
-  "aggiornato": "2026-11-20T23:53:25.434195+00:00",
-  "conteggio": 85,
+  "aggiornato": "2026-11-21T05:39:50.019139+00:00",
+  "conteggio": 84,
   "elementi": [
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tumak l’inesorabile",
+      "data": "2026-12-22",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Nuova-Ristampa-536_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/tumak-linesorabile-4/",
+      "fonte": "Bonelli"
+    },
     {
       "tipo": "uscita",
       "editore": "Bonelli",
@@ -529,16 +539,6 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Pellerossa e visi pallidi",
-      "data": "2026-11-05",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/04_Il-west-di-Serpieri-01_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/pellerossa-e-visi-pallidi/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Nella notte di Praga",
       "data": "2026-11-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Dampyr-320_cover.jpg",
@@ -843,16 +843,6 @@
       "data": "2026-09-22",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/dd_primaalba_0.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-prima-che-sia-lalba/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Medaglie Dylan Dog 40 – Cofanetto",
-      "data": "2026-09-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/MedagliaDD40_cofanetto.png",
-      "link": "https://www.sergiobonelli.it/prodotto/medaglie-dylan-dog-40-cofanetto/",
       "fonte": "Bonelli"
     }
   ],
