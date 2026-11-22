@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-21T22:57:51.760284+00:00",
-  "conteggio": 84,
+  "aggiornato": "2026-11-22T05:05:27.885719+00:00",
+  "conteggio": 83,
   "elementi": [
     {
       "tipo": "uscita",
@@ -833,16 +833,6 @@
       "data": "2026-09-23",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/19_Speciale-Dylan-Dog-41_cover-1.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/anatomia-di-un-incubo/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog. Prima che sia l’alba",
-      "data": "2026-09-22",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/dd_primaalba_0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-prima-che-sia-lalba/",
       "fonte": "Bonelli"
     }
   ],
