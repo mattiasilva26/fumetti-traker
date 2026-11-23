@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-22T23:19:03.873321+00:00",
+  "aggiornato": "2026-11-23T05:47:30.936072+00:00",
   "conteggio": 83,
   "elementi": [
     {
@@ -321,6 +321,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vasco2_0-scaled.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/vasco-rossi-sulle-ali-del-successo/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "",
+      "titolo": "Bonelli: i fumetti in uscita questa settimana (23-29 novembre 2026)",
+      "data": "2026-11-23",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/vasco-rossi-sulle-ali-del-successo.webp",
+      "link": "https://fumettologica.it/2026/11/bonelli-i-fumetti-in-uscita-questa-settimana-23-29-novembre-2026/",
+      "fonte": "Fumettologica"
     },
     {
       "tipo": "uscita",
@@ -823,16 +833,6 @@
       "data": "2026-09-25",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Box50_Panini-Sticker_DD40_scatola.png",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-box-da-50-bustine/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Anatomia di un incubo",
-      "data": "2026-09-23",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/19_Speciale-Dylan-Dog-41_cover-1.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/anatomia-di-un-incubo/",
       "fonte": "Bonelli"
     }
   ],
