@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-23T05:47:30.936072+00:00",
-  "conteggio": 83,
+  "aggiornato": "2026-11-23T17:36:46.929016+00:00",
+  "conteggio": 87,
   "elementi": [
     {
       "tipo": "uscita",
@@ -323,6 +323,36 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "titolo": "Cartella filatelica Dylan Dog 40 – A4",
+      "data": "2026-11-23",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/DDFA4_fronte.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/cartella-filatelica-dylan-dog-40-a4/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Lo Spazio Bianco",
+      "serie": "",
+      "titolo": "“Montagna”: l’amore, l’inferno e la vendetta",
+      "data": "2026-11-23",
+      "cover": "https://www.lospaziobianco.it/wp-content/uploads/2026/11/montagna_ev.jpg",
+      "link": "https://www.lospaziobianco.it/montagna-lamore-linferno-e-la-vendetta/",
+      "fonte": "Lo Spazio Bianco"
+    },
+    {
+      "tipo": "news",
+      "editore": "Fumettologica",
+      "serie": "Dylan Dog",
+      "titolo": "Un po’ di pagine dall’Enciclopedia della paura di Dylan Dog 2026",
+      "data": "2026-11-23",
+      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/lenciclopedia-della-paura-2026.webp",
+      "link": "https://fumettologica.it/2026/11/enciclopedia-della-paura-dylan-dog-2026/",
+      "fonte": "Fumettologica"
+    },
+    {
       "tipo": "news",
       "editore": "Fumettologica",
       "serie": "",
@@ -331,6 +361,16 @@
       "cover": "https://fumettologica.it/wp-content/uploads/2026/11/vasco-rossi-sulle-ali-del-successo.webp",
       "link": "https://fumettologica.it/2026/11/bonelli-i-fumetti-in-uscita-questa-settimana-23-29-novembre-2026/",
       "fonte": "Fumettologica"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Le Strisce di Tex 268",
+      "data": "2026-11-23",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Strisce-268_serieXXXII_osages_06_cover.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-tex-268/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -837,6 +877,18 @@
     }
   ],
   "collezione": [
+    {
+      "id": "222157",
+      "tipo": "collezione",
+      "editore": "Bonelli",
+      "serie": "Dylan Dog",
+      "collana": "Altre edizioni",
+      "numero": null,
+      "titolo": "Cartella filatelica Dylan Dog 40 – A4",
+      "data": "2026-11-23",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/DDFA4_fronte.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/cartella-filatelica-dylan-dog-40-a4/"
+    },
     {
       "id": "220450",
       "tipo": "collezione",
