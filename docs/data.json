@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-23T17:36:46.929016+00:00",
-  "conteggio": 87,
+  "aggiornato": "2026-11-24T04:00:35.135450+00:00",
+  "conteggio": 86,
   "elementi": [
     {
       "tipo": "uscita",
@@ -461,16 +461,6 @@
       "cover": "",
       "link": "https://www.sergiobonelli.it/sbe-torna-alla-milan-games-week/",
       "fonte": "Sergio Bonelli Editore"
-    },
-    {
-      "tipo": "news",
-      "editore": "Lo Spazio Bianco",
-      "serie": "",
-      "titolo": "Torna in libreria “L’uomo del Nilo” di Sergio Toppi",
-      "data": "2026-11-18",
-      "cover": "https://www.lospaziobianco.it/wp-content/uploads/2026/11/COVER-Toppi_-Luomo-del-Nilo.jpg",
-      "link": "https://www.lospaziobianco.it/torna-in-libreria-luomo-del-nilo-di-sergio-toppi/",
-      "fonte": "Lo Spazio Bianco"
     },
     {
       "tipo": "news",
@@ -7306,7 +7296,7 @@
       "numero": null,
       "titolo": "Blacky",
       "data": "2015-11-18",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1445349072460.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/blacky-2/"
     },
     {
@@ -7318,7 +7308,7 @@
       "numero": null,
       "titolo": "L’ultimo arcano",
       "data": "2015-11-12",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1444741797365.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/lultimo-arcano-3/"
     },
     {
@@ -7330,7 +7320,7 @@
       "numero": null,
       "titolo": "Maxi Dylan Dog n°25",
       "data": "2015-10-30",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1443690868917.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/maxi-dylan-dog-n25/"
     },
     {
@@ -7342,7 +7332,7 @@
       "numero": null,
       "titolo": "Lacrime di pietra",
       "data": "2015-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1441011890336.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/lacrime-di-pietra/"
     },
     {
@@ -7354,7 +7344,7 @@
       "numero": null,
       "titolo": "Dylan Dog 350 – Variant",
       "data": "2015-10-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1474625467632.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-350-variant/"
     },
     {
@@ -7366,7 +7356,7 @@
       "numero": null,
       "titolo": "La legione degli scheletri",
       "data": "2015-10-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1442493662310.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/la-legione-degli-scheletri-2/"
     },
     {
@@ -7378,7 +7368,7 @@
       "numero": null,
       "titolo": "L’ospite sgradito",
       "data": "2015-10-14",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1441974125030.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/lospite-sgradito-3/"
     },
     {
@@ -7390,7 +7380,7 @@
       "numero": null,
       "titolo": "Dylan Dog GrandeRistampa n° 55",
       "data": "2015-10-08",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1438614975672.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-granderistampa-n-55/"
     },
     {
@@ -7402,7 +7392,7 @@
       "numero": null,
       "titolo": "La morta non dimentica",
       "data": "2015-09-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1440679058224.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/la-morta-non-dimentica/"
     },
     {
@@ -7414,7 +7404,7 @@
       "numero": null,
       "titolo": "La casa delle memorie",
       "data": "2015-09-19",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1438850552701.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/la-casa-delle-memorie/"
     },
     {
@@ -7426,7 +7416,7 @@
       "numero": null,
       "titolo": "I segni della fine",
       "data": "2015-09-18",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1438849193701.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/i-segni-della-fine-2/"
     },
     {
@@ -7438,7 +7428,7 @@
       "numero": null,
       "titolo": "Un fantasma a Scotland Yard",
       "data": "2015-09-12",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1438846123883.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/un-fantasma-a-scotland-yard-3/"
     },
     {
@@ -7450,7 +7440,7 @@
       "numero": null,
       "titolo": "La mano sbagliata",
       "data": "2015-08-28",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435669123829.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/la-mano-sbagliata/"
     },
     {
@@ -7462,7 +7452,7 @@
       "numero": null,
       "titolo": "Super Book n° 66",
       "data": "2015-08-20",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435667218290.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/super-book-n-66/"
     },
     {
@@ -7474,7 +7464,7 @@
       "numero": null,
       "titolo": "Il crollo",
       "data": "2015-08-19",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435666792289.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/il-crollo-2/"
     },
     {
@@ -7486,7 +7476,7 @@
       "numero": null,
       "titolo": "Nightmare Tour",
       "data": "2015-08-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435658388054.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/nightmare-tour-3/"
     },
     {
@@ -7498,7 +7488,7 @@
       "numero": 15,
       "titolo": "Dylan Dog Color Fest 15",
       "data": "2015-08-13",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435654753229.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-color-fest-15/"
     },
     {
@@ -7510,7 +7500,7 @@
       "numero": null,
       "titolo": "Dylan Dog GrandeRistampa n° 54",
       "data": "2015-08-05",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1433407368743.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-granderistampa-n-54/"
     },
     {
@@ -7522,7 +7512,7 @@
       "numero": null,
       "titolo": "Gli abbandonati",
       "data": "2015-07-29",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1435321897150.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/gli-abbandonati/"
     },
     {
@@ -7534,7 +7524,7 @@
       "numero": null,
       "titolo": "Epidemia aliena",
       "data": "2015-07-21",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1434461774333.jpg",
+      "cover": "",
       "link": "https://www.sergiobonelli.it/prodotto/epidemia-aliena-2/"
     },
     {
