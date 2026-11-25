@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-24T17:09:56.811642+00:00",
-  "conteggio": 84,
+  "aggiornato": "2026-11-25T02:07:19.261567+00:00",
+  "conteggio": 81,
   "elementi": [
     {
       "tipo": "uscita",
@@ -813,36 +813,6 @@
       "data": "2026-09-26",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/22_Dylan-Dog-481_cover01.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/prima-che-sia-lalba/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog Sticker Collection – Starter Pack",
-      "data": "2026-09-25",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Starter-Pack_Panini-Sticker_DD40_album.png",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-starter-pack/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog Sticker Collection – Ecoblister",
-      "data": "2026-09-25",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Ecoblister_Panini-Sticker_DD40_album.png",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-ecoblister/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog Sticker Collection – Box da 50 bustine",
-      "data": "2026-09-25",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/Box50_Panini-Sticker_DD40_scatola.png",
-      "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-sticker-collection-box-da-50-bustine/",
       "fonte": "Bonelli"
     }
   ],
