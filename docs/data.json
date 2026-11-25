@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-25T02:07:19.261567+00:00",
-  "conteggio": 81,
+  "aggiornato": "2026-11-25T16:59:43.505583+00:00",
+  "conteggio": 79,
   "elementi": [
     {
       "tipo": "uscita",
@@ -20,6 +20,16 @@
       "data": "2026-12-22",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Tex-Nuova-Ristampa-536_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/tumak-linesorabile-4/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Sul fronte nemico",
+      "data": "2026-12-19",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/16_Tex-Willer-98_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/sul-fronte-nemico/",
       "fonte": "Bonelli"
     },
     {
@@ -186,16 +196,6 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Tex Willer. Fantasmi di Natale",
-      "data": "2026-12-04",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/tw_fantasmidinatale0.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/tex-willer-fantasmi-di-natale/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
       "titolo": "Ken Parker. Un principe per Norma",
       "data": "2026-12-04",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/kenparker_normajean0.jpg",
@@ -250,6 +250,16 @@
       "data": "2026-12-01",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/01_Speciale-Zagor-NN-MM_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/odissea-nel-tempo/",
+      "fonte": "Bonelli"
+    },
+    {
+      "tipo": "uscita",
+      "editore": "Bonelli",
+      "serie": "",
+      "titolo": "Tex Willer. Fantasmi di Natale",
+      "data": "2026-12-01",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/tw_fantasmidinatale0.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/tex-willer-fantasmi-di-natale/",
       "fonte": "Bonelli"
     },
     {
@@ -313,6 +323,16 @@
       "fonte": "Bonelli"
     },
     {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Le Strisce di Zagor 92",
+      "data": "2026-11-25",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/Le-Strisce-di-Zagor_Lampo04_39.jpg",
+      "link": "https://www.sergiobonelli.it/le-strisce-di-zagor-92/",
+      "fonte": "Sergio Bonelli Editore"
+    },
+    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -331,16 +351,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/vasco2_0-scaled.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/vasco-rossi-sulle-ali-del-successo/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Fumettologica",
-      "serie": "",
-      "titolo": "Un po’ di pagine dal nuovo “Color Tex”",
-      "data": "2026-11-24",
-      "cover": "https://fumettologica.it/wp-content/uploads/2026/11/color-tex-30.webp",
-      "link": "https://fumettologica.it/2026/11/color-tex-30-anteprima-bonelli/",
-      "fonte": "Fumettologica"
     },
     {
       "tipo": "uscita",
@@ -433,16 +443,6 @@
       "fonte": "Sergio Bonelli Editore"
     },
     {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog 40 anni di Paura 10",
-      "data": "2026-11-20",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-40-anni-di-paura-10/",
-      "fonte": "Sergio Bonelli Editore"
-    },
-    {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
@@ -451,16 +451,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/16_Tex-Willer-97_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/congiura-a-new-orleans/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "",
-      "titolo": "SBE torna alla Milan Games Week & Cartoomics!",
-      "data": "2026-11-19",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/sbe-torna-alla-milan-games-week/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -510,16 +500,6 @@
       "data": "2026-11-12",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/10_I-Mondi-di-Zagor-03_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-sorriso-del-diavolo/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "",
-      "titolo": "Giorni di fuoco",
-      "data": "2026-11-07",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/07_Tex-793_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/giorni-di-fuoco/",
       "fonte": "Bonelli"
     },
     {
