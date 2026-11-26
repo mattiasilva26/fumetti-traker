@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-25T16:59:43.505583+00:00",
-  "conteggio": 79,
+  "aggiornato": "2026-11-26T01:44:48.237045+00:00",
+  "conteggio": 78,
   "elementi": [
     {
       "tipo": "uscita",
@@ -783,16 +783,6 @@
       "data": "2026-10-15",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/09/12_Dylan-Dog-Oldboy-SS-10_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/memory-lane/",
-      "fonte": "Bonelli"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bonelli",
-      "serie": "Dylan Dog",
-      "titolo": "Prima che sia l’alba",
-      "data": "2026-09-26",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/08/22_Dylan-Dog-481_cover01.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/prima-che-sia-lalba/",
       "fonte": "Bonelli"
     }
   ],
