@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-27T01:40:47.971288+00:00",
+  "aggiornato": "2026-11-27T16:22:36.534217+00:00",
   "conteggio": 78,
   "elementi": [
     {
@@ -226,20 +226,20 @@
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "Il mistero di Manito",
+      "titolo": "L’urlo del cielo",
       "data": "2026-12-02",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Zagor-737-788_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/il-mistero-di-manito/",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/02_Julia-339_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/lurlo-del-cielo/",
       "fonte": "Bonelli"
     },
     {
       "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
-      "titolo": "L’urlo del cielo",
+      "titolo": "Il mistero di Manito",
       "data": "2026-12-02",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/02_Julia-339_cover.jpg",
-      "link": "https://www.sergiobonelli.it/prodotto/lurlo-del-cielo/",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/03_Zagor-737-788_cover.jpg",
+      "link": "https://www.sergiobonelli.it/prodotto/il-mistero-di-manito/",
       "fonte": "Bonelli"
     },
     {
@@ -301,6 +301,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/22_Tex-Classic-254_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-villaggio-dei-seminoles/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Sergio Bonelli Editore",
+      "serie": "",
+      "titolo": "Gli incontri tra gli eroi Bonelli – Prima parte",
+      "data": "2026-11-27",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/1675779082911-776x1024.jpg",
+      "link": "https://www.sergiobonelli.it/gli-incontri-tra-gli-eroi-bonelli-prima-parte/",
+      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -431,16 +441,6 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/10/storiadinessuno0-1.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/dylan-dog-storia-di-nessuno/",
       "fonte": "Bonelli"
-    },
-    {
-      "tipo": "news",
-      "editore": "Sergio Bonelli Editore",
-      "serie": "Dylan Dog",
-      "titolo": "Dylan Dog Horror Show ancora in scena!",
-      "data": "2026-11-20",
-      "cover": "",
-      "link": "https://www.sergiobonelli.it/dylan-dog-horror-show-ancora-in-scena/",
-      "fonte": "Sergio Bonelli Editore"
     },
     {
       "tipo": "uscita",
@@ -18964,7 +18964,7 @@
       "numero": null,
       "titolo": "Ananga!",
       "data": "1997-10-01",
-      "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/de0bc50043783df366301648159df943.jpg",
+      "cover": "https://www.sergiobonelli.it/wp-content/uploads/1997/10/dylandog_133.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/ananga-2/"
     },
     {
