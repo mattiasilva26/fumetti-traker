@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-27T16:22:36.534217+00:00",
-  "conteggio": 78,
+  "aggiornato": "2026-11-28T01:17:18.655392+00:00",
+  "conteggio": 79,
   "elementi": [
     {
       "tipo": "uscita",
@@ -294,6 +294,16 @@
     },
     {
       "tipo": "uscita",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "titolo": "Toni Bellasalma 13 – GHOST KITCHEN",
+      "data": "2026-11-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/11/T-BELLASALMA-013-GHOST-KITCHEN-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-13-ghost-kitchen/",
+      "fonte": "Bugs Comics"
+    },
+    {
+      "tipo": "uscita",
       "editore": "Bonelli",
       "serie": "",
       "titolo": "Il villaggio dei Seminoles",
@@ -301,6 +311,16 @@
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2026/11/22_Tex-Classic-254_cover.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-villaggio-dei-seminoles/",
       "fonte": "Bonelli"
+    },
+    {
+      "tipo": "news",
+      "editore": "Lo Spazio Bianco",
+      "serie": "",
+      "titolo": "Luca Peverelli e Chiara Milano a Lo Spazio Audace di Lucca Comics 2026",
+      "data": "2026-11-27",
+      "cover": "https://www.lospaziobianco.it/wp-content/uploads/2026/11/Milano_Peverelli_montagna_spazio_audace_home.jpg",
+      "link": "https://www.lospaziobianco.it/luca-peverelli-e-chiara-milano-a-lo-spazio-audace-di-lucca-comics-2026/",
+      "fonte": "Lo Spazio Bianco"
     },
     {
       "tipo": "news",
@@ -763,16 +783,6 @@
       "data": "2026-10-28",
       "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/2026-SS-LA-LUNA-ASSENZIO-plancia-cover-Vol-III-risguardi-RED-64pp-195x266-copia.jpg",
       "link": "https://www.bugscomics.com/prodotto/trilogia-della-luna-assenzio/",
-      "fonte": "Bugs Comics"
-    },
-    {
-      "tipo": "uscita",
-      "editore": "Bugs Comics",
-      "serie": "",
-      "titolo": "L’Insonne – Storie brevi II",
-      "data": "2026-10-28",
-      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/10/Insonne-Storie-brevi-II-Cover.jpg",
-      "link": "https://www.bugscomics.com/prodotto/linsonne-storie-brevi-ii/",
       "fonte": "Bugs Comics"
     },
     {
@@ -20202,6 +20212,18 @@
       "data": "1995-08-01",
       "cover": "https://www.sergiobonelli.it/wp-content/uploads/2025/10/7410b445f06355c2a625cfa46fd6b790.jpg",
       "link": "https://www.sergiobonelli.it/prodotto/il-paese-delle-ombre-colorate/"
+    },
+    {
+      "id": "96076",
+      "tipo": "collezione",
+      "editore": "Bugs Comics",
+      "serie": "Toni Bellasalma",
+      "collana": "Toni Bellasalma",
+      "numero": null,
+      "titolo": "Toni Bellasalma 13 – GHOST KITCHEN",
+      "data": "2026-11-28",
+      "cover": "https://www.bugscomics.com/wp-content/uploads/2026/11/T-BELLASALMA-013-GHOST-KITCHEN-Cover.jpg",
+      "link": "https://www.bugscomics.com/prodotto/toni-bellasalma-13-ghost-kitchen/"
     },
     {
       "id": "95682",
